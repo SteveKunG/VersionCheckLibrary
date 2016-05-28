@@ -1,1 +1,1 @@
-Desc=Testing Change Log
+Desc=First Release of Indicator Utils mod!
