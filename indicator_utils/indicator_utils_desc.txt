@@ -1,1 +1,2 @@
 First Release of Indicator Utils mod! Enjoy :)
+Read full change log : http://pastebin.com/rJ7He59c
