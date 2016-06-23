@@ -1,2 +1,2 @@
-Added Potion Status, Time Info, New Config GUI!
+Added Health Status and Supported 1.7.10 - 1.10!
 Read full change log : http://pastebin.com/rJ7He59c
