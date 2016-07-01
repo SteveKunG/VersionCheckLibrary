@@ -1,2 +1,2 @@
-Improved Version Checker and Supported 1.7.10 - 1.10.2!
-Read full change log : http://pastebin.com/rJ7He59c (Click here)
+Hotfix for 1.7.10 (FPS Value) - Supported 1.7.10 - 1.10.2!
+Read full change log : http://pastebin.com/rJ7He59c (CLICK HERE)
