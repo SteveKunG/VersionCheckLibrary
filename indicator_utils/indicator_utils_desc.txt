@@ -1,2 +1,2 @@
-Hotfix for 1.7.10 (FPS Value) - Supported 1.7.10 - 1.10.2!
+HOTFIX for 1.7.10 (Wrong coordinate value) - Supported 1.7.10 - 1.10.2!
 Read full change log : http://pastebin.com/rJ7He59c (CLICK HERE)
