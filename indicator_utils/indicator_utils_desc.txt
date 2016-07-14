@@ -1,2 +1,2 @@
-HOTFIX for 1.7.10 (Wrong coordinate value) - Supported 1.7.10 - 1.10.2!
-Read full change log : http://pastebin.com/rJ7He59c (CLICK HERE)
+Added Render Mode for Multiplayer and improved/fixed some issues - Supported 1.7.10 - 1.10.2!
+Read full change log [CLICK HERE] : http://pastebin.com/rJ7He59c
