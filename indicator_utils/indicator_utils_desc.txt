@@ -1,2 +1,2 @@
-Fixed some issue with LAN connection and improved some features - Supported 1.7.10 - 1.10.2!
+Added Biome and fix Ping issue in 1.7.10 - Supported 1.7.10 - 1.10.2!
 Read full change log [CLICK HERE] : http://pastebin.com/rJ7He59c
