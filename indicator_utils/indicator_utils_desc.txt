@@ -1,2 +1,2 @@
-Added PvP Mode and Improved version checker - Supported 1.7.10 - 1.10.2!
+Added Key Pad and more render option improved - Supported 1.7.10 - 1.10.2!
 Read full change log [CLICK HERE] : http://pastebin.com/rJ7He59c
