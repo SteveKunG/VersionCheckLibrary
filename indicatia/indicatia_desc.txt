@@ -1,2 +1,2 @@
 A Rewrite Mod of Indicator Utils!
-Better Performance and more simple features! - Support with Minecraft 1.7.2/1.7.10/1.8.9/1.10.2/1.11.2/1.12!
+Better Performance and more simple features! - Support with Minecraft 1.7.2/1.12! (except 1.9)
