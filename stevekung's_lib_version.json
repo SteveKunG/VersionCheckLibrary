@@ -1,13 +1,13 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/stevekung's-lib",
     "1.12.2": {
-        "1.0.0.0": "More info at: put link to this....",
+        "1.0.0": "More info at: put link to this....",
     }
 
     "promos": {
-        "1.12.2-latest": "1.0.0.0",
-        "1.12.2-recommended": "1.0.0.0",
-        "latest": "1.0.0.0",
-        "recommended": "1.0.0.0"
+        "1.12.2-latest": "1.0.0",
+        "1.12.2-recommended": "1.0.0",
+        "latest": "1.0.0",
+        "recommended": "1.0.0"
     }
 }
