@@ -1,0 +1,12 @@
+{
+    "homepage": "https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets",
+    "promos": {
+        "1.12.2-latest": "3.0.1",
+        "1.12.2-recommended": "3.0.1",
+        "latest": "3.0.1",
+        "recommended": "3.0.1"
+    },
+    "1.12.2": {
+        "3.0.1": "More info at: put link to this...."
+    }
+}
