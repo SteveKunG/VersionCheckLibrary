@@ -1,12 +1,12 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/indicatia",
     "promos": {
-        "1.12.2-latest": "2.0.0",
-        "1.12.2-recommended": "2.0.0",
-        "latest": "2.0.0",
-        "recommended": "2.0.0"
+        "1.12.2-latest": "1.2.0",
+        "1.12.2-recommended": "1.2.0",
+        "latest": "1.2.0",
+        "recommended": "1.2.0"
     },
     "1.12.2": {
-        "2.0.0": "More info at: put link to this...."
+        "1.2.0": "More info at: put link to this...."
     }
 }
