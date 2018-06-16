@@ -1,12 +1,12 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets",
     "promos": {
-        "1.12.2-latest": "2.1.1",
-        "1.12.2-recommended": "2.1.1",
-        "latest": "2.1.1",
-        "recommended": "2.1.1"
+        "1.12.2-latest": "2.1.2",
+        "1.12.2-recommended": "2.1.2",
+        "latest": "2.1.2",
+        "recommended": "2.1.2"
     },
     "1.12.2": {
-        "2.1.1": "More info at: put link to this...."
+        "2.1.2": "More Planets 2.1.2 Change Log \n* Fixed crash when JEI not installed\n* Fixed rare crash with Infected Crystallized potion overlay"
     }
 }
