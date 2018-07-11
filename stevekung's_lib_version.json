@@ -1,12 +1,13 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/stevekungs-lib",
     "promos": {
-        "1.12.2-latest": "1.0.1",
-        "1.12.2-recommended": "1.0.1",
-        "latest": "1.0.1",
-        "recommended": "1.0.1"
+        "1.12.2-latest": "1.0.2",
+        "1.12.2-recommended": "1.0.2",
+        "latest": "1.0.2",
+        "recommended": "1.0.2"
     },
     "1.12.2": {
+        "1.0.2": "SteveKunG's Lib 1.0.2 Change Log\n+ Added Overlay Message with Delay \n* Update Colored Font Renderer \n- Removed change log from Version Checker",
         "1.0.1": "SteveKunG's Lib 1.0.1 Change Log\n+ Added Colored Font for Unicode \n* Cleanup Remapper info log \n* Bump required Forge to 14.23.4.2705 \n* Fixed CurseForge URL",
         "1.0.0": "First release!"
     }
