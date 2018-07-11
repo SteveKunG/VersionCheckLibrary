@@ -1,12 +1,13 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/indicatia",
     "promos": {
-        "1.12.2-latest": "1.2.1",
-        "1.12.2-recommended": "1.2.1",
-        "latest": "1.2.1",
-        "recommended": "1.2.1"
+        "1.12.2-latest": "1.2.2",
+        "1.12.2-recommended": "1.2.2",
+        "latest": "1.2.2",
+        "recommended": "1.2.2"
     },
     "1.12.2": {
+        "1.2.2": "Indicatia 1.2.2 Change Log\n+ Added Cops and Crims hypixel minigames list \n* Fixed AFK 360 mode \n* Fixed small font rendering \n- Removed In-game change log",
         "1.2.1": "Indicatia 1.2.1 Change Log\n* Update Hypixel minigames \n* Adjust server info in Custom Multiplayer GUI \n* Fixed unicode font renderer \n* Fixed only damaged status \n* Fixed Multiplayer GUI",
         "1.2.0": "Indicatia 1.2.0 Change Log\n+ Added New Extended Config GUI \n+ Added /autofish command \n+ Added /swedentime command \n+ Added mouse scroll support for Hypixel Minigame list \n+ Added Galacticraft Planet time support \n* Custom Cape now save per user \n* Improve profile settings \n* Improve Click to Disconnect Button \n* More bug fixes \n* More GUI fixes \n* Fixed Toggle Sprint key binding issue. Closes #1"
     }
