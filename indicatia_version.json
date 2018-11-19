@@ -1,10 +1,10 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/indicatia",
     "promos": {
-        "1.12.2-latest": "1.2.3",
-        "1.12.2-recommended": "1.2.3",
-        "latest": "1.2.3",
-        "recommended": "1.2.3"
+        "1.12.2-latest": "1.2.4",
+        "1.12.2-recommended": "1.2.4",
+        "latest": "1.2.4",
+        "recommended": "1.2.4"
     },
     "1.12.2": {
         "1.2.4": "Indicatia 1.2.4 Change Log\n* Hypixel Minigames now always up-to-date! \n* Now Required SteveKunG's Lib 1.0.5 \n* Update Hypixel Minigames",
