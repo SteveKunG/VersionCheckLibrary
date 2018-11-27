@@ -7,6 +7,7 @@
         "recommended": "1.2.4"
     },
     "1.12.2": {
+        "1.2.5": "Indicatia 1.2.5 Change Log\n* Update Minigames JSON \n* Minigame Button now sorted by A-Z \n* Now Required SteveKunG's Lib 1.0.5",
         "1.2.4": "Indicatia 1.2.4 Change Log\n* Hypixel Minigames now always up-to-date! \n* Now Required SteveKunG's Lib 1.0.5 \n* Update Hypixel Minigames",
         "1.2.3": "Indicatia 1.2.3 Change Log\n+ Added YouTube Chat mod Current Watched support \n* Now Required SteveKunG's Lib 1.0.3 \n* Update Hypixel Minigames",
         "1.2.2": "Indicatia 1.2.2 Change Log\n+ Added Cops and Crims hypixel minigames list \n* Fixed AFK 360 mode \n* Fixed small font rendering \n- Removed In-game change log",
