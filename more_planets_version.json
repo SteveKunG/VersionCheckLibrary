@@ -1,13 +1,14 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets",
     "promos": {
-        "1.12.2-latest": "2.1.4",
-        "1.12.2-recommended": "2.1.4",
-        "latest": "2.1.4",
-        "recommended": "2.1.4"
+        "1.12.2-latest": "2.1.5",
+        "1.12.2-recommended": "2.1.5",
+        "latest": "2.1.5",
+        "recommended": "2.1.5"
     },
     "1.12.2": {
-        "2.1.4": "More Planets 2.1.4 Change Log+\n Added Fuel for item doors +\n Added Korean Language +\n Re-added Gravity Boots *\n Now required SteveKunG's Lib 1.0.3 *\n Support Planet Progression *\n Reduce giant worm spawning *\n Fixed server crash with Portal sound. Closes #40 *\n Fixed WorldTickEvent performance issue. Closes #47 *\n Fixed JEI Recipe for Dark Energy Transform *\n Fixed Black Hole entity data and reduce falling block lag",
+        "2.1.5": "More Planets 2.1.5 Change Log\n* Now required SteveKunG's Lib 1.0.5 \n* Fixed crash when using Digital Miner mine Nibiru blocks. Fixes #56 \n* Fixed server crash with old dimension name. Fixes #53 \n* Attempt to fix crash with OTG. #55",
+        "2.1.4": "More Planets 2.1.4 Change Log\n+ Added Fuel for item doors \n+ Added Korean Language \n+ Re-added Gravity Boots \n* Now required SteveKunG's Lib 1.0.3 \n* Support Planet Progression \n* Reduce giant worm spawning \n* Fixed server crash with Portal sound. Closes #40 \n* Fixed WorldTickEvent performance issue. Closes #47 \n* Fixed JEI Recipe for Dark Energy Transform \n* Fixed Black Hole entity data and reduce falling block lag",
         "2.1.3": "More Planets 2.1.3 Change Log\n+ Added Slab to Block recipes \n+ Added Black Hole/Ion Cannon schematics to Tier 4 Loot \n+ Added Space Portal multi-layer model support \n* Update Latest GC API. Closes #33 \n* New Black Hole gravity behavior \n* Renamed \"Infected Crystallized Web\" to \"Infected Crystallized Cobweb\" \n* Renamed \"Large Infected Crystallized\" to \"Infected Crystallized Crystal\" \n* Shield Generator its \"shield\" now should rendered properly \n* Only enable Space Portal recipe when enabled survival planet config \n* Space Portal now require to stand on the block \n* Prevent Milk from cure capsule effect \n* Minor performance improved \n* Optimize JEI recipes \n* Improved Black Hole Storage schematic \n* Fixed Grass color in space biomes \n* Fixed Black Hole not spawning falling block \n* Fixed Sealable Waste Rod model \n* Fixed invisible item models (Forge build 2725) \n* Fixed Black Hole Storage schematic valid item slot \n* Fixed Infected Spore Protection potion duration time",
         "2.1.2": "More Planets 2.1.2 Change Log\n* Fixed crash when JEI not installed \n* Fixed rare crash with Infected Crystallized potion overlay",
         "2.1.1": "More Planets 2.1.1 Change Log\n* Optimized Shield rendering \n* Fixed Server Side crash \n* Fixed required library issue \n* Fixed Dark Energy Generator rotation \n* Fixed Shield Generator Inventory GUI offset \n* Fixed Shield Generator item duplication \n- Remove Space Capsule",
