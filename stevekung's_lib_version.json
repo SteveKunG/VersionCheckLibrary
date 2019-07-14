@@ -1,12 +1,13 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/stevekungs-lib",
     "promos": {
-        "1.12.2-latest": "1.0.5",
-        "1.12.2-recommended": "1.0.5",
-        "latest": "1.0.5",
-        "recommended": "1.0.5"
+        "1.12.2-latest": "1.1.0",
+        "1.12.2-recommended": "1.1.0",
+        "latest": "1.1.0",
+        "recommended": "1.1.0"
     },
     "1.12.2": {
+        "1.1.0": "SteveKunG's Lib 1.1.0 Change Log\n+ Added New API \n* Update Forge version \n* Using Mixin Framework, please check if it incompatible with other mods. \n* Fixed ColoredFontRenderer alpha color.",
         "1.0.5": "SteveKunG's Lib 1.0.5 Change Log\n* Fixed Config Manager issue",
         "1.0.4": "SteveKunG's Lib 1.0.4 Change Log\n+ Added Replace GUI Ingame config to prevent incompatibility for other mods",
         "1.0.3": "SteveKunG's Lib 1.0.3 Change Log\n+ Added IGuiChat API for Indicatia and YouTube Chat",
