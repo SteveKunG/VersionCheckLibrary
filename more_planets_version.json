@@ -1,12 +1,13 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets",
     "promos": {
-        "1.12.2-latest": "2.1.6",
-        "1.12.2-recommended": "2.1.6",
-        "latest": "2.1.6",
-        "recommended": "2.1.6"
+        "1.12.2-latest": "2.1.7",
+        "1.12.2-recommended": "2.1.7",
+        "latest": "2.1.7",
+        "recommended": "2.1.7"
     },
     "1.12.2": {
+        "2.1.7": "More Planets 2.1.7 Change Log\n* Update New GC Inventory system \n* Required GC Build 215",
         "2.1.6": "More Planets 2.1.6 Change Log\n+ Added Space Portal Camera Effect \n* Update Forge version \n* Update SteveKunG's Lib to 1.1.0 \n* Attempt to fix crash with Space Warper Core. Fixes #58 \n* Fixed Infected Crystallized first person overlay rendering \n* Fixed raining particle on Nibiru \n- Remove Left Click hack for Fire block",
         "2.1.5": "More Planets 2.1.5 Change Log\n* Now required SteveKunG's Lib 1.0.5 \n* Fixed crash when using Digital Miner mine Nibiru blocks. Fixes #56 \n* Fixed server crash with old dimension name. Fixes #53 \n* Attempt to fix crash with OTG. #55",
         "2.1.4": "More Planets 2.1.4 Change Log\n+ Added Fuel for item doors \n+ Added Korean Language \n+ Re-added Gravity Boots \n* Now required SteveKunG's Lib 1.0.3 \n* Support Planet Progression \n* Reduce giant worm spawning \n* Fixed server crash with Portal sound. Closes #40 \n* Fixed WorldTickEvent performance issue. Closes #47 \n* Fixed JEI Recipe for Dark Energy Transform \n* Fixed Black Hole entity data and reduce falling block lag",
