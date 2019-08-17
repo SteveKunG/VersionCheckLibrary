@@ -7,7 +7,7 @@
         "recommended": "1.3.0"
     },
     "1.12.2": {
-        "1.3.0": "Indicatia 1.2.5 Change Log\n+ Added Ping Mode \n+ Re-added smooth sneaking view \n* Required SteveKunG's Lib 1.1.3 \n* Update minigames and optimization \n* Improve AFK Movement \n* Resetting config is now work in-game without restart \n* Minor change to Old Fishing Rod rendering \n* Minor improvement to render health status \n* More improvement to Right Click to Add Party \n* More fixes to Player Tab Overlay (latency display) \n* Fixed button id conflict with Creative Tabs \n* Fixed Hotbar rendering when disable boss bar \n* Fixed string width issue in Player List overlay",
+        "1.3.0": "Indicatia 1.3.0 Change Log\n+ Added Ping Mode \n+ Re-added smooth sneaking view \n* Required SteveKunG's Lib 1.1.3 \n* Update minigames and optimization \n* Improve AFK Movement \n* Resetting config is now work in-game without restart \n* Minor change to Old Fishing Rod rendering \n* Minor improvement to render health status \n* More improvement to Right Click to Add Party \n* More fixes to Player Tab Overlay (latency display) \n* Fixed button id conflict with Creative Tabs \n* Fixed Hotbar rendering when disable boss bar \n* Fixed string width issue in Player List overlay",
         "1.2.6": "Indicatia 1.2.6 Change Log\n* Using Mixin Framework, please check if it incompatible with other mods. \n* Update Forge version \n* More compatibility with other mods.",
         "1.2.5": "Indicatia 1.2.5 Change Log\n* Update Minigames JSON \n* Minigame Button now sorted by A-Z \n* Now Required SteveKunG's Lib 1.0.5",
         "1.2.4": "Indicatia 1.2.4 Change Log\n* Hypixel Minigames now always up-to-date! \n* Now Required SteveKunG's Lib 1.0.5 \n* Update Hypixel Minigames",
