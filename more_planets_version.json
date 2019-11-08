@@ -1,12 +1,13 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets",
     "promos": {
-        "1.12.2-latest": "2.1.8",
-        "1.12.2-recommended": "2.1.8",
-        "latest": "2.1.8",
-        "recommended": "2.1.8"
+        "1.12.2-latest": "2.1.9",
+        "1.12.2-recommended": "2.1.9",
+        "latest": "2.1.9",
+        "recommended": "2.1.9"
     },
     "1.12.2": {
+        "2.1.9": "More Planets 2.1.9 Change Log\n+ Added DRY Biome type to Infected Badlands biome \n* Dungeon Entrance improvements \n* More random brightness to glowing texture \n* Better Infected Purlonite overlay rendering on entity \n* SoundEvents should be registered properly on server side \n* Renamed all blocks/items/entities "Infected Crystallized" to "Infected Purlonite" \n* Fixed random crash with NullPointerException \n* Fixed Zelius Egg dropped by explosion \n* Fixed Charged Zelius Creeper rendering \n* Fixed rare race condition with sided config machine",
         "2.1.8": "More Planets 2.1.8 Change Log\n* Required GC Build 219 \n* Required SteveKunG's Lib 1.1.2 \n* Minor change to Cheese Spore Hut \n* Performance Improvement \n* Better Fog rendering with glowing layers on entities \n* Improved Cheese Floater slime particle when hurt \n* Improved Energy Transfer for Sealable Nuclear Waste Rod \n* Fixed Energy display for Space Warp Pad (Waila) \n* Fixed items in tile entities not saved \n* Fixed Energy Storage not stored their tier data \n* Fixed world being null in Custom Spawning Handler \n* Fixed rare crash with Custom Boss Bar \n* Fixed Weather on Nibiru not working with Vein Floater \n* Fixed Nibiru Sky rendering \n* Fixed crystals block lighting",
         "2.1.7": "More Planets 2.1.7 Change Log\n* Update New GC Inventory system \n* Required GC Build 215",
         "2.1.6": "More Planets 2.1.6 Change Log\n+ Added Space Portal Camera Effect \n* Update Forge version \n* Update SteveKunG's Lib to 1.1.0 \n* Attempt to fix crash with Space Warper Core. Fixes #58 \n* Fixed Infected Crystallized first person overlay rendering \n* Fixed raining particle on Nibiru \n- Remove Left Click hack for Fire block",
