@@ -2,9 +2,7 @@
     "homepage": "https://minecraft.curseforge.com/projects/youtube-chat",
     "promos": {
         "1.12.2-latest": "1.4.1",
-        "1.12.2-recommended": "1.4.1",
-        "latest": "1.4.1",
-        "recommended": "1.4.1"
+        "1.12.2-recommended": "1.4.1"
     },
     "1.12.2": {
         "1.4.1": "YouTube Chat 1.4.1 Change Log\n* Adjust button position \n* More YT message improved \n* Now required SteveKunG's Lib 1.0.5 \n* Update latest YouTube API Libraries \n- Removed Live ID Config",
