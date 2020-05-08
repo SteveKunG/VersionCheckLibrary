@@ -1,14 +1,15 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/stevekungs-lib",
     "promos": {
-        "1.15.2-latest": "3.0.4",
-        "1.15.2-recommended": "3.0.4",
-        "1.14.4-latest": "2.0.4",
-        "1.14.4-recommended": "2.0.4",
+        "1.15.2-latest": "3.0.5",
+        "1.15.2-recommended": "3.0.5",
+        "1.14.4-latest": "2.0.5",
+        "1.14.4-recommended": "2.0.5",
         "1.12.2-latest": "1.1.5",
         "1.12.2-recommended": "1.1.5"
     },
     "1.15.2": {
+        "3.0.5": "SteveKunG's Lib 3.0.5 Change Log\n* Update NumberUtils and JsonUtils",
         "3.0.4": "SteveKunG's Lib 3.0.4 Change Log\n* Switch ChatScreenRegistry to use forge event",
         "3.0.3": "SteveKunG's Lib 3.0.3 Change Log\n* Update sound event registry",
         "3.0.2": "SteveKunG's Lib 3.0.2 Change Log\n* Fixed conflict with OptiForge \n* Downgrade mixin to 0.8",
@@ -16,6 +17,7 @@
         "3.0.0": "First release for Minecraft 1.15.2!"
     },
     "1.14.4": {
+        "2.0.5": "SteveKunG's Lib 2.0.5 Change Log\n* Update NumberUtils and JsonUtils",
         "2.0.4": "SteveKunG's Lib 2.0.4 Change Log\n* Switch ChatScreenRegistry to use forge event",
         "2.0.3": "SteveKunG's Lib 2.0.3 Change Log\n* Update sound event registry",
         "2.0.2": "SteveKunG's Lib 2.0.2 Change Log\n* Fixed lag spike when in the Enchantment Table GUI, Closed #6 \n* Downgrade mixin to 0.8",
