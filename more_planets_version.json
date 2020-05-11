@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/galacticraft-add-on-more-planets",
     "promos": {
-        "1.12.2-latest": "2.1.11",
-        "1.12.2-recommended": "2.1.11"
+        "1.12.2-latest": "2.1.12",
+        "1.12.2-recommended": "2.1.12"
     },
     "1.12.2": {
         "2.1.12": "More Planets 2.1.12 Change Log\n* Fixed Black Hole crashed server \n* Fixed check liquid method inside client class",
