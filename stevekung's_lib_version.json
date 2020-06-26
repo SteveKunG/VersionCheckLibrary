@@ -1,14 +1,15 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/stevekungs-lib",
     "promos": {
-        "1.15.2-latest": "3.0.7",
-        "1.15.2-recommended": "3.0.7",
+        "1.15.2-latest": "3.0.8",
+        "1.15.2-recommended": "3.0.8",
         "1.14.4-latest": "2.0.8",
         "1.14.4-recommended": "2.0.8",
         "1.12.2-latest": "1.1.6",
         "1.12.2-recommended": "1.1.6"
     },
     "1.15.2": {
+        "3.0.8": "SteveKunG's Lib 3.0.8 Change Log\n* Update NumberUtils for compact number format \n* Clean up some class",
         "3.0.7": "SteveKunG's Lib 3.0.7 Change Log\n* Fixed command not working",
         "3.0.6": "SteveKunG's Lib 3.0.6 Change Log\n+ Add more decimal formats \n* Some fix to mixins \n* Fixed bug in NumberUtils with empty char",
         "3.0.5": "SteveKunG's Lib 3.0.5 Change Log\n* Update NumberUtils and JsonUtils",
