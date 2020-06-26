@@ -3,8 +3,8 @@
     "promos": {
         "1.15.2-latest": "3.0.5",
         "1.15.2-recommended": "3.0.5",
-        "1.14.4-latest": "2.0.4",
-        "1.14.4-recommended": "2.0.4",
+        "1.14.4-latest": "2.0.5",
+        "1.14.4-recommended": "2.0.5",
         "1.12.2-latest": "1.3.3",
         "1.12.2-recommended": "1.3.3"
     },
@@ -17,6 +17,7 @@
         "3.0.0": "First release for Minecraft 1.15.2!\n* Rewrite everything! \n- Removed useless features"
     },
     "1.14.4": {
+        "2.0.5": "Indicatia 2.0.5 Change Log\n* Required SteveKunG's Lib 2.0.8 \n* Chinese language support",
         "2.0.4": "Indicatia 2.0.4 Change Log\n+ Added player head on SkyBlock minigame \n* Required SteveKunG's Lib 2.0.7 \n* Fixed chat mode not extensible \n* Fixed crash with elytra layer \n- Removed hypixel nickname detection \n- Removed old fishing rod config",
         "2.0.3": "Indicatia 2.0.3 Change Log\n+ Added ChatMode to IExtensibleEnum \n* Fixed minigame command \n* Required SteveKunG's Lib 2.0.5",
         "2.0.2": "Indicatia 2.0.2 Change Log\n* Update Dropdown minigames API \n* Required SteveKunG's Lib 2.0.4",
