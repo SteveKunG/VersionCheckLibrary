@@ -1,0 +1,12 @@
+{
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblockcatia",
+    "promos": {
+        "1.15.2-latest": "2.0.0",
+        "1.15.2-recommended": "2.0.0",
+        "1.8.9-latest": "1.0.1",
+        "1.8.9-recommended": "1.0.1"
+    },
+    "1.8.9": {
+        "1.0.1": "SkyBlockcatia 1.0.1 Change Log\n* Change default value of `Display Item Ability with Max Used` to false \n* Fixed crash with getSlotUnderMouse() \n- Removed Prevent Farmland Trampled on client side"
+    }
+}
