@@ -3,10 +3,11 @@
     "promos": {
         "1.15.2-latest": "2.0.0",
         "1.15.2-recommended": "2.0.0",
-        "1.8.9-latest": "1.0.4",
-        "1.8.9-recommended": "1.0.4"
+        "1.8.9-latest": "1.0.5",
+        "1.8.9-recommended": "1.0.5"
     },
     "1.8.9": {
+        "1.0.5": "SkyBlockcatia 1.0.5 Change Log\n+ Added potatoes, wheat and nether wart to Village (Mineable Hitbox) \n+ Added shortcut button for checking own API \n+ Added Shortcut Button in Inventory config \n+ Added Show Armor Button in API Viewer \n* Update API Viewer textbox description \n* /sbapi command default argument is now current player username \n* Item Rarity rendering is now working for all item renderer (including inside SBA Backpack) \n* Ignore Catacombs location for mineable hitbox \n* Minor change to pet type lore color in API Viewer \n- Removed player swing animation when item used (mostly player head)",
         "1.0.4": "SkyBlockcatia 1.0.4 Change Log\n+ Added Spirit Pet \n+ Added rarity detection for upgraded accessory \n* Disable Indicatia render info by default \n* Highlight max level of skills to gold color \n* Minor fixes to Dragon Hitbox when dragon respawned/death \n* More attempt to fix regional language issue \n* Fixed Toast displayed wrong title, blame eclipse... \n* Fixed Zealot Respawn Cooldown not display in some circumstance \n* Fixed button position compatibility with Patcher and VanillaEnhancements",
         "1.0.3": "SkyBlockcatia 1.0.3 Change Log\n+ Added Dungeon Reward toast \n+ Added Enable Enchanted Glint for Skulls in main config \n+ Added Prevent Clicking on Dummy Item config \n+ Highlight Overlay for current selected pet \n* Fixed Dungeon Quality Drop not displayed \n* Fixed regional format issues with number format \n* Fixed Skyblock Enchantment Glint not rendered",
         "1.0.2": "SkyBlockcatia 1.0.2 Change Log\n* Change default key of API Viewer to F8 \n* Attempt to fix crash with Item Drop Toast \n- Removed Bait count from Equipment HUD",
