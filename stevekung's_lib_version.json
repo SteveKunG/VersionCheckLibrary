@@ -5,8 +5,8 @@
         "1.15.2-recommended": "3.0.8",
         "1.14.4-latest": "2.0.8",
         "1.14.4-recommended": "2.0.8",
-        "1.12.2-latest": "1.1.7",
-        "1.12.2-recommended": "1.1.7"
+        "1.12.2-latest": "1.1.8",
+        "1.12.2-recommended": "1.1.8"
     },
     "1.15.2": {
         "3.0.8": "SteveKunG's Lib 3.0.8 Change Log\n* Update NumberUtils for compact number format \n* Clean up some class",
@@ -31,6 +31,7 @@
         "2.0.0": "First release for Minecraft 1.14.4!"
     },
     "1.12.2": {
+        "1.1.8": "SteveKunG's Lib 1.1.8 Change Log\n* Fixed crash with spongeforge",
         "1.1.7": "SteveKunG's Lib 1.1.7 Change Log\n* Performance improvement for WeatherTickEvent \n* Clean up mixins",
         "1.1.6": "SteveKunG's Lib 1.1.6 Change Log\n* Fixed mixin issue",
         "1.1.5": "SteveKunG's Lib 1.1.5 Change Log\n* Update to Latest Forge 1.12.2",
