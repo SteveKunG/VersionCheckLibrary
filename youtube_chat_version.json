@@ -1,11 +1,11 @@
 {
-    "homepage": "https://minecraft.curseforge.com/projects/youtube-chat",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/youtube-chat",
     "promos": {
         "1.12.2-latest": "1.4.1",
         "1.12.2-recommended": "1.4.1"
     },
     "1.12.2": {
-        "1.4.1": "YouTube Chat 1.4.1 Change Log\n* Adjust button position \n* More YT message improved \n* Now required SteveKunG's Lib 1.0.5 \n* Update latest YouTube API Libraries \n- Removed Live ID Config",
-        "1.4.0": "YouTube Chat 1.4.0 Change Log\n+ Added Set Live ID command \n+ Added Current Live View Count \n+ Added \"Remove Moderator\" feature \n* Required SteveKunG's Lib 1.0.3 \n* Right Side Chat improvement \n* Major mod rewrite"
+        "1.4.1": "\u00a7e*\u00a7r Adjust button position \n\u00a7e*\u00a7r More YT message improved \n\u00a7e*\u00a7r Now required SteveKunG's Lib 1.0.5 \n\u00a7e*\u00a7r Update latest YouTube API Libraries \n\u00a74-\u00a7r Removed Live ID Config",
+        "1.4.0": "\u00a7a+\u00a7r Added Set Live ID command \n\u00a7a+\u00a7r Added Current Live View Count \n\u00a7a+\u00a7r Added \"Remove Moderator\" feature \n\u00a7e*\u00a7r Required SteveKunG's Lib 1.0.3 \n\u00a7e*\u00a7r Right Side Chat improvement \n\u00a7e*\u00a7r Major mod rewrite"
     }
 }
