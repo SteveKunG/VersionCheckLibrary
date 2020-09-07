@@ -5,8 +5,8 @@
         "1.15.2-recommended": "3.0.8",
         "1.14.4-latest": "2.0.8",
         "1.14.4-recommended": "2.0.8",
-        "1.12.2-latest": "1.1.8",
-        "1.12.2-recommended": "1.1.8"
+        "1.12.2-latest": "1.1.9",
+        "1.12.2-recommended": "1.1.9"
     },
     "1.15.2": {
         "3.0.8": "\u00a7e*\u00a7r Update NumberUtils for compact number format \n\u00a7e*\u00a7r Clean up some class",
@@ -31,6 +31,7 @@
         "2.0.0": "First release for Minecraft 1.14.4!"
     },
     "1.12.2": {
+        "1.1.9": "\n\u00a7e*\u00a7r Attempt to fix crash with spongeforge \n\u00a74-\u00a7r Removed Invalid Fingerprint check",
         "1.1.8": "\u00a7e*\u00a7r Fixed crash with spongeforge",
         "1.1.7": "\u00a7e*\u00a7r Performance improvement for WeatherTickEvent \n\u00a7e*\u00a7r Clean up mixins",
         "1.1.6": "\u00a7e*\u00a7r Fixed mixin issue",
