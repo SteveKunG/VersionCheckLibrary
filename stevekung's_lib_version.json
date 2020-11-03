@@ -1,14 +1,19 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/stevekungs-lib",
     "promos": {
-        "1.16.3-latest": "4.0.0",
-        "1.16.3-recommended": "4.0.0",
+        "1.16.4-latest": "4.0.1",
+        "1.16.4-recommended": "4.0.1",
+        "1.16.3-latest": "4.0.1",
+        "1.16.3-recommended": "4.0.1",
         "1.15.2-latest": "3.0.8",
         "1.15.2-recommended": "3.0.8",
         "1.14.4-latest": "2.0.8",
         "1.14.4-recommended": "2.0.8",
         "1.12.2-latest": "1.1.9",
         "1.12.2-recommended": "1.1.9"
+    },
+    "1.16.4": {
+        "4.0.1": "\u00a7e*\u00a7r Update to 1.16.4"
     },
     "1.16.3": {
         "4.0.0": "\u00a7e*\u00a7r Update to 1.16.3 \n\u00a7e*\u00a7r Huge update to internal stuff \n\u00a7e*\u00a7r Bug fixes"
