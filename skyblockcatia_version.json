@@ -1,15 +1,21 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblockcatia",
     "promos": {
+        "1.16.4-latest": "2.0.1",
+        "1.16.4-recommended": "2.0.1",
         "1.16.3-latest": "2.0.0",
         "1.16.3-recommended": "2.0.0",
-        "1.8.9-latest": "1.0.11",
-        "1.8.9-recommended": "1.0.11"
+        "1.8.9-latest": "1.0.12",
+        "1.8.9-recommended": "1.0.12"
+    },
+    "1.16.4": {
+        "2.0.1": "\u00a7e*\u00a7r Update to 1.16.4!"
     },
     "1.16.3": {
         "2.0.0": "\u00a7e*\u00a7r Fully updated to 1.16.3!"
     },
     "1.8.9": {
+        "1.0.12": "\u00a7e*\u00a7r Fixed crash when Minigame buttons failed to parse correct base64 pattern",
         "1.0.11": "\u00a7a+\u00a7r Added Game Mode to displayed in API Viewer \n\u00a7a+\u00a7r Added support for mythic pets \n\u00a7a+\u00a7r Added Spooky Cupcake/Vampire Fang pet item in API Viewer \n\u00a7a+\u00a7r Added Spooky Sea Creatures kill list in API Viewer \n\u00a7a+\u00a7r Added more baby skin for Glowing Dragon Head \n\u00a7e*\u00a7r Update slayer visual \n\u00a7e*\u00a7r More locale fixes \n\u00a7e*\u00a7r Fixed version checker change log being null for sometime \n\u00a7e*\u00a7r Fixed colored font rendering with Patcher Optimized Font Renderer",
         "1.0.10": "\u00a7a+\u00a7r Added prototype pet stats (Axe Cooldown is now working with current Monkey pet) \n\u00a7e*\u00a7r Probably solved mixins conflict in GuiScreen classes issue \n\u00a7e*\u00a7r Fixed rarity in auction house \n\u00a7e*\u00a7r Fixed index out of bounds (for real) \n\u00a7e*\u00a7r Fixed bid confirmation not working properly",
         "1.0.9": "\u00a7a+\u00a7r Added Toast for Bank Interest and Allowance \n\u00a7a+\u00a7r Added Personal Vault tab \n\u00a7a+\u00a7r Added shortcut buttons for Auction House and Bazaar in inventory \n\u00a7a+\u00a7r Added 24 Hours time format, Implemented #14 \n\u00a7a+\u00a7r Added Version Checker notification \n\u00a7a+\u00a7r Added support for new Skyblock tab list for lobby player count \n\u00a7a+\u00a7r Added 1.16 Ignore glass collision for third person camera \n\u00a7a+\u00a7r Added support for pet skins \n\u00a7a+\u00a7r Added Dark Auction to Skyblock Location \n\u00a7a+\u00a7r Added FLOWER_OF_TRUTH to right clicked blacklist \n\u00a7a+\u00a7r Added Ferocity stats \n\u00a7e*\u00a7r NEU Compatibility with inventory potion shift \n\u00a7e*\u00a7r Reorganize inventory tabs \n\u00a7e*\u00a7r Update Wardrobe leather chestplate color \n\u00a7e*\u00a7r Item Rarity is now detected by base item color \n\u00a7e*\u00a7r Disabled Inventory Viewer if API Disabled or Empty Slot \n\u00a7e*\u00a7r Display Armor tooltip in Player Info tab \n\u00a7e*\u00a7r Display player lobby count only in Skyblock \n\u00a7e*\u00a7r Fixed name for Washed-up Souvenir \n\u00a7e*\u00a7r Fixed events estimated time \n\u00a7e*\u00a7r Fixed performance issue with Player Overlay Tab \n\u00a7e*\u00a7r Fixed dungeon items regex pattern \n\u00a7e*\u00a7r Attempt to fix ArrayIndexOutOfBounds for ItemBlock \n\u00a74-\u00a7r Removed duplicate sea creatures stats in kills list",
