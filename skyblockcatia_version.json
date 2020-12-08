@@ -5,8 +5,8 @@
         "1.16.4-recommended": "2.0.1",
         "1.16.3-latest": "2.0.0",
         "1.16.3-recommended": "2.0.0",
-        "1.8.9-latest": "1.0.12",
-        "1.8.9-recommended": "1.0.12"
+        "1.8.9-latest": "1.0.13",
+        "1.8.9-recommended": "1.0.13"
     },
     "1.16.4": {
         "2.0.1": "\u00a7e*\u00a7r Update to 1.16.4!"
@@ -15,6 +15,7 @@
         "2.0.0": "\u00a7e*\u00a7r Fully updated to 1.16.3!"
     },
     "1.8.9": {
+        "1.0.13": "\u00a7a+\u00a7r Added Global Config for Enable Chat in Container Screen, Implemented #38 \n\u00a7a+\u00a7r Added Hitbox Render Mode config, Implemented #37 \n\u00a7a+\u00a7r Added 'Hour:Minute' to Obtained Date \n\u00a7a+\u00a7r Added exact time to Account & Profile upgrades \n\u00a7a+\u00a7r Added forced mineable hitbox by press 'CONTROL' key \n\u00a7a+\u00a7r Added pet score for mythic pet in API Viewer \n\u00a7a+\u00a7r Added Fix Skyblock Enchant Tag config \n\u00a7a+\u00a7r Added Disable Night Vision config \n\u00a7a+\u00a7r Added Ability Damage stat to API Viewer \n\u00a7a+\u00a7r Added Shortcut Buttons for Enchanting and Anvil \n\u00a7a+\u00a7r Added support for new auction browser title \n\u00a7a+\u00a7r Added Toast Config category \n\u00a7e*\u00a7r Update mixins to 0.7.11 \n\u00a7e*\u00a7r Move 'Show Item Rarity' to Rendering category \n\u00a7e*\u00a7r Disable lobby player count from other player island \n\u00a7e*\u00a7r Disable Prevent Clicking on Dummy Item by default \n\u00a7e*\u00a7r Prevent exception from missing key bindings in toggle sprint/sneak config \n\u00a7e*\u00a7r Prevent magical water bucket glitch on client side \n\u00a7e*\u00a7r Re-designed inventory buttons \n\u00a7e*\u00a7r API Viewer now display item durability \n\u00a7e*\u00a7r API Viewer now sort pet by A-Z \n\u00a7e*\u00a7r Minor change to Community Upgrades status \n\u00a7e*\u00a7r Minor performance improved for race stats \n\u00a7e*\u00a7r Filtered player name starts with '!' \n\u00a7e*\u00a7r Internal fix for Skyblock locations \n\u00a7e*\u00a7r More fixes to event/upgrade estimated time \n\u00a7e*\u00a7r Fixed Pet Item type in API Viewer \n\u00a7e*\u00a7r Fixed Ignore Clicking on Dummy items not working properly \n\u00a7e*\u00a7r Fixed skill progress in API Viewer \n\u00a74-\u00a7r Removed replaced fishing rod line and models, since it is my own private mod so good bye! \n\u00a74-\u00a7r Removed current server day from chat",
         "1.0.12": "\u00a7e*\u00a7r Fixed crash when Minigame buttons failed to parse correct base64 pattern",
         "1.0.11": "\u00a7a+\u00a7r Added Game Mode to displayed in API Viewer \n\u00a7a+\u00a7r Added support for mythic pets \n\u00a7a+\u00a7r Added Spooky Cupcake/Vampire Fang pet item in API Viewer \n\u00a7a+\u00a7r Added Spooky Sea Creatures kill list in API Viewer \n\u00a7a+\u00a7r Added more baby skin for Glowing Dragon Head \n\u00a7e*\u00a7r Update slayer visual \n\u00a7e*\u00a7r More locale fixes \n\u00a7e*\u00a7r Fixed version checker change log being null for sometime \n\u00a7e*\u00a7r Fixed colored font rendering with Patcher Optimized Font Renderer",
         "1.0.10": "\u00a7a+\u00a7r Added prototype pet stats (Axe Cooldown is now working with current Monkey pet) \n\u00a7e*\u00a7r Probably solved mixins conflict in GuiScreen classes issue \n\u00a7e*\u00a7r Fixed rarity in auction house \n\u00a7e*\u00a7r Fixed index out of bounds (for real) \n\u00a7e*\u00a7r Fixed bid confirmation not working properly",
