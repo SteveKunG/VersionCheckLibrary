@@ -5,8 +5,8 @@
         "1.16.4-recommended": "2.0.1",
         "1.16.3-latest": "2.0.0",
         "1.16.3-recommended": "2.0.0",
-        "1.8.9-latest": "1.0.14",
-        "1.8.9-recommended": "1.0.14"
+        "1.8.9-latest": "1.0.15",
+        "1.8.9-recommended": "1.0.15"
     },
     "1.16.4": {
         "2.0.1": "\u00a7e*\u00a7r Update to 1.16.4!"
@@ -15,6 +15,7 @@
         "2.0.0": "\u00a7e*\u00a7r Fully updated to 1.16.3!"
     },
     "1.8.9": {
+        "1.0.15": "\u00a7a+\u00a7r Added Candy Sacks support \n\u00a7a+\u00a7r Added Jacob Farming stats to API Viewer \n\u00a7a+\u00a7r Skyblock Profile Selectors now display island members \n\u00a7e*\u00a7r Rewrite Numeric Toast \n\u00a7e*\u00a7r Prevent exception from InputEvent \n\u00a7e*\u00a7r Enabled mixin 'verbose' for debugging \n\u00a7e*\u00a7r Fixed Patcher incompatibility with disable enchanted armor glint \n\u00a7e*\u00a7r Fixed incompatible with Better Sprinting, Closed #48 \n\u00a7e*\u00a7r Fixed empty collections in API Viewer \n\u00a74-\u00a7r Removed Prevent Clicking on Dummy Item config \n\u00a74-\u00a7r Removed 'minVersion' in mixin",
         "1.0.14": "\u00a7a+\u00a7r Added screen check for toggle sprint/sneak, Closed #42 \n\u00a7a+\u00a7r Added save function to Forge Config on press ESC \n\u00a7a+\u00a7r Added more short commands ('sbc' and 'sbcatia') \n\u00a7e*\u00a7r Add more details for missing API Key \n\u00a7e*\u00a7r Revert default custom color to white \n\u00a7e*\u00a7r Fixed incompatible with PlayerAPI/RenderPlayerAPI/OldAnimation Closed #41 \n\u00a7e*\u00a7r Fixed incompatible with glint colorizer \n\u00a74-\u00a7r Removed 1.15 glint color",
         "1.0.13": "\u00a7a+\u00a7r Added Global Config for Enable Chat in Container Screen, Implemented #38 \n\u00a7a+\u00a7r Added Hitbox Render Mode config, Implemented #37 \n\u00a7a+\u00a7r Added 'Hour:Minute' to Obtained Date \n\u00a7a+\u00a7r Added exact time to Account & Profile upgrades \n\u00a7a+\u00a7r Added forced mineable hitbox by press 'CONTROL' key \n\u00a7a+\u00a7r Added pet score for mythic pet in API Viewer \n\u00a7a+\u00a7r Added Fix Skyblock Enchant Tag config \n\u00a7a+\u00a7r Added Disable Night Vision config \n\u00a7a+\u00a7r Added Ability Damage stat to API Viewer \n\u00a7a+\u00a7r Added Shortcut Buttons for Enchanting and Anvil \n\u00a7a+\u00a7r Added support for new auction browser title \n\u00a7a+\u00a7r Added Toast Config category \n\u00a7e*\u00a7r Update mixins to 0.7.11 \n\u00a7e*\u00a7r Move 'Show Item Rarity' to Rendering category \n\u00a7e*\u00a7r Disable lobby player count from other player island \n\u00a7e*\u00a7r Disable Prevent Clicking on Dummy Item by default \n\u00a7e*\u00a7r Prevent exception from missing key bindings in toggle sprint/sneak config \n\u00a7e*\u00a7r Prevent magical water bucket glitch on client side \n\u00a7e*\u00a7r Re-designed inventory buttons \n\u00a7e*\u00a7r API Viewer now display item durability \n\u00a7e*\u00a7r API Viewer now sort pet by A-Z \n\u00a7e*\u00a7r Minor change to Community Upgrades status \n\u00a7e*\u00a7r Minor performance improved for race stats \n\u00a7e*\u00a7r Filtered player name starts with '!' \n\u00a7e*\u00a7r Internal fix for Skyblock locations \n\u00a7e*\u00a7r More fixes to event/upgrade estimated time \n\u00a7e*\u00a7r Fixed Pet Item type in API Viewer \n\u00a7e*\u00a7r Fixed Ignore Clicking on Dummy items not working properly \n\u00a7e*\u00a7r Fixed skill progress in API Viewer \n\u00a74-\u00a7r Removed replaced fishing rod line and models, since it is my own private mod so good bye! \n\u00a74-\u00a7r Removed current server day from chat",
         "1.0.12": "\u00a7e*\u00a7r Fixed crash when Minigame buttons failed to parse correct base64 pattern",
