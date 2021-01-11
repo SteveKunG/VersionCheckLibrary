@@ -1,10 +1,11 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/more-planets-gc-addon",
     "promos": {
-        "1.12.2-latest": "2.2.0",
-        "1.12.2-recommended": "2.2.0"
+        "1.12.2-latest": "2.2.1",
+        "1.12.2-recommended": "2.2.1"
     },
     "1.12.2": {
+        "2.2.1": "\u00a7e*\u00a7r Downgrade GC Build to 280 \n\u00a7e*\u00a7r Ore Dictionary support for some Fronos Blocks \n\u00a7e*\u00a7r Attempt to fix performance issue with Shield Generator, closed #104 \n\u00a7e*\u00a7r Fixed crash when Vein Floater death, closed #106 \n\u00a7e*\u00a7r Update Russian Language",
         "2.2.0": "\u00a7a+\u00a7r A Dog House \n\u00a7a+\u00a7r Re-Added Fronos Planet \n\u00a7a+\u00a7r Added a New Texture for Fronos Planet \n\u00a7a+\u00a7r Added New Blocks (Fronos Grass, Fronos Tall Grass, Fronos Fern, Fronos Lily Pad, Fronos Mushroom, Pink Blechnum, Nemophila, Large Wheat, Purple Bush) \n\u00a7a+\u00a7r Added New Logs/Planks/Trees/Saplings/Doors/Trapdoors (Oscalea, Frolia) \n\u00a7a+\u00a7r Added 4 Fronos Biomes (Meadow, Plains, River, Forest) \n\u00a7a+\u00a7r Added Blue Pear \n\u00a7e*\u00a7r World Environment color is now working, Chalos render more yellowish and Koentus render more bluish \n\u00a7e*\u00a7r Marshmallow sitting now plays cloth sound \n\u00a7e*\u00a7r Blue Pear now used to tempt Fronos Creatures \n\u00a7e*\u00a7r Wheat now used to breed Fronos Creatures \n\u00a7e*\u00a7r Some minor fixes to Fronos Creatures facial animation/texture \n\u00a7e*\u00a7r Fixed crash when trying render Infected Purlonite effect, Compatibility with JustEnoughResources. Closed #99 \n\u00a7e*\u00a7r Fixed locale issues \n\u00a7e*\u00a7r Fixed some slab blocks not burning \n\u00a7e*\u00a7r Fixed breaking particle for Fronos Grass Block \n\u00a74-\u00a7r Removed condition from 'space_portal' recipe",
         "2.1.14": "\u00a7e*\u00a7r Required SteveKunG's Lib 1.1.9 \n\u00a7e*\u00a7r Attempt to fix crash with spongeforge \n\u00a74-\u00a7r Removed Invalid Fingerprint check",
         "2.1.13": "\u00a7a+\u00a7r Added Shield Generator recipe, Closed #65 \n\u00a7a+\u00a7r Added \"Enable Nibiru Infected Spore suffocation for mobs\" config, Implemented #82 \n\u00a7e*\u00a7r Now Required SteveKunG's Lib 1.1.7 \n\u00a7e*\u00a7r GC Dungeon Locator should get correct MP Dungeon location \n\u00a7e*\u00a7r Renamed Ore Gen configs \n\u00a7e*\u00a7r Minor fix to Shield Generator screen size \n\u00a7e*\u00a7r Fixed crash when right click machines with battery \n\u00a7e*\u00a7r Fixed Nibiru Dungeon failed to generated \n\u00a7e*\u00a7r Fixed performance issue with LivingUpdate/WeatherTick events, Closed #95 \n\u00a74-\u00a7r Removed Saturation Effect from Cheese Milk Fluid, Closed #83",
