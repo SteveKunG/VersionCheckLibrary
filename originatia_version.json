@@ -1,0 +1,16 @@
+{
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/originatia",
+    "promos": {
+        "1.16.5-latest": "0.0.3",
+        "1.16.5-recommended": "0.0.3",
+        "1.16.4-latest": "0.0.2",
+        "1.16.4-recommended": "0.0.2"
+    },
+    "1.16.5": {
+        "0.0.3": "\u00a7a+\u00a7r Added custom block sounds \n\u00a7a+\u00a7r Added New Block Shape for custom blocks \n\u00a7a+\u00a7r Added Warp Selection \n\u00a7e*\u00a7r Minor fix to ceiling block placement \n\u00a74-\u00a7r Remove safe remove planter box feature"
+    },
+    "1.16.4": {
+        "0.0.2": "\u00a7a+\u00a7r Added origin realms Custom Item ID to item tooltip \n\u00a7a+\u00a7r Added quick navigator key \n\u00a7e*\u00a7r Update dropdown shortcut buttons \n\u00a7e*\u00a7r Improved Paper Item placement \n\u00a7e*\u00a7r Stop stone sound being played when use paper \n\u00a7e*\u00a7r Fake Light for some custom blocks \n\u00a7e*\u00a7r Prevent right click on Planter Box with water bucket \n\u00a7e*\u00a7r Attempt to fix water bucket on client side \n\u00a7e*\u00a7r Prevent Trip Wire/Note Block update on client side \n\u00a7e*\u00a7r Fixed tripwire render type for custom models \n\u00a74-\u00a7r Removed MixinCommandSuggestionHelper \n\u00a74-\u00a7r Removed MixinClientAdvancementManager",
+        "0.0.1": "\u00a7e*\u00a7r First alpha release!"
+    }
+}
