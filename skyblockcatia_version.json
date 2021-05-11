@@ -1,7 +1,7 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblockcatia",
     "promos": {
-        "1.16.5-latest": "2.1.1",
+        "1.16.5-latest": "2.2.1",
         "1.16.5-recommended": "2.1.1",
         "1.16.4-latest": "2.0.1",
         "1.16.4-recommended": "2.0.1",
@@ -11,6 +11,8 @@
         "1.8.9-recommended": "1.1.0"
     },
     "1.16.5": {
+        "2.2.1": "\u00a7e*\u00a7r Update from 1.8.9",
+        "2.2.0": "\u00a7e*\u00a7r Now using Architectury API \n\u00a7e*\u00a7r Set default value of Fix Skin Rendering to 'true' \n\u00a7e*\u00a7r Fixed melon and pumpkin Item ID \n\u00a7e*\u00a7r Fixed config not saved",
         "2.1.1": "\u00a7e*\u00a7r API Viewer is now getting dynamic data, including pets, minions, slayers, skills, etc.\n\u00a7e*\u00a7r Internal code clean up",
         "2.1.0": "\u00a7a+\u00a7r Added New Pet support - Grandma Wolf \n\u00a7a+\u00a7r Added Runes display in Sacks \n\u00a7a+\u00a7r Added Enchanted Item form in Sacks \n\u00a7a+\u00a7r Added View API button to island guests \n\u00a7a+\u00a7r Added Display Realtime Ping on player list \n\u00a7a+\u00a7r Added Tier 12 Revenant Minion support \n\u00a7e*\u00a7r Update from 1.8.9 \n\u00a7e*\u00a7r Store player profiles into cache to prevent viewing API twice \n\u00a7e*\u00a7r Make Titanium Ore enchanted in sacks \n\u00a7e*\u00a7r Update max fairy souls \n\u00a74-\u00a7r Removed Automatic open maddox menu \n\u00a74-\u00a7r Removed Ignore Bush Hitbox \n\u00a74-\u00a7r Removed Ignore interact with invisible armor stand \n\u00a74-\u00a7r Removed prevent item right clicking \n\u00a74-\u00a7r Removed Mineable Hitbox \n\u00a74-\u00a7r Removed Prevent Scroll Hotbar while fighting dragon \n\u00a74-\u00a7r Removed Open Player Inventory when riding a horse",
         "2.0.4": "\u00a7e*\u00a7r Update features from 1.8.9 \n\u00a7e*\u00a7r Fix string render for crosshair overlay \n\u00a7e*\u00a7r Fix version checker",
@@ -24,6 +26,7 @@
         "2.0.0": "\u00a7e*\u00a7r Fully updated to 1.16.3!"
     },
     "1.8.9": {
+        "1.1.2": "\u00a7a+\u00a7r Added Disable Error Log config to hide client error logs \n\u00a7e*\u00a7r Update ability damage icon \n\u00a7e*\u00a7r Changed shortcut inventory from Ender Chest to Storage \n\u00a7e*\u00a7r Fixed crash when inventory item detection changed \n\u00a7e*\u00a7r Fixed SBA glowing teammates not working \n\u00a7e*\u00a7r Fixed unknown data type detection in API Viewer",
         "1.1.1": "\u00a7e*\u00a7r API Viewer is now getting dynamic data, including pets, minions, slayers, skills, etc.\n\u00a7e*\u00a7r Internal code clean up",
         "1.1.0": "\u00a7a+\u00a7r Added New Pet support - Grandma Wolf \n\u00a7a+\u00a7r Added Runes display in Sacks \n\u00a7a+\u00a7r Added Enchanted Item form in Sacks \n\u00a7a+\u00a7r Added View API button to island guests \n\u00a7a+\u00a7r Added Display Realtime Ping on player list \n\u00a7a+\u00a7r Added Tier 12 Revenant Minion support \n\u00a7e*\u00a7r Store player profiles into cache to prevent viewing API twice \n\u00a7e*\u00a7r Make Titanium Ore enchanted in sacks \n\u00a7e*\u00a7r Update max fairy souls \n\u00a7e*\u00a7r Disable custom font color when Smooth Font mod loaded, closed #74 \n\u00a74-\u00a7r Removed Automatic open maddox menu \n\u00a74-\u00a7r Removed Ignore Bush Hitbox \n\u00a74-\u00a7r Removed Ignore interact with invisible armor stand \n\u00a74-\u00a7r Removed prevent item right clicking \n\u00a74-\u00a7r Removed Mineable Hitbox \n\u00a74-\u00a7r Removed Prevent Scroll Hotbar while fighting dragon \n\u00a74-\u00a7r Removed Open Player Inventory when riding a horse \n\u00a74-\u00a7r Removed all indicatia features",
         "1.0.17": "\u00a7a+\u00a7r Added wardrobe command shortcut \n\u00a7e*\u00a7r Compatible with stable and beta SBA \n\u00a7e*\u00a7r Add hacky way to detect block breaking on server side, closed #63 \n\u00a7e*\u00a7r Fix missing translation \n\u00a7e*\u00a7r Fix unicode font lag with patcher font optimization \n\u00a7e*\u00a7r Fix lightning bolt renderer incompatible with Skytils",
