@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/indicatia",
     "promos": {
-        "1.16.5-latest": "4.1.4",
-        "1.16.5-recommended": "4.0.3",
+        "1.16.5-latest": "4.1.5",
+        "1.16.5-recommended": "4.1.5",
         "1.16.4-latest": "4.0.2",
         "1.16.4-recommended": "4.0.2",
         "1.16.3-latest": "4.0.1",
@@ -15,6 +15,7 @@
         "1.12.2-recommended": "1.3.3"
     },
     "1.16.5": {
+        "4.1.5": "\u00a7e*\u00a7r Required SteveKunG's Lib 4.1.3 \n\u00a7e*\u00a7r Update Architectury API to 1.17",
         "4.1.4": "\u00a7e*\u00a7r Overworld TPS is now working correctly (Fabric) \n\u00a7e*\u00a7r Fixed nether and the end client world freeze (Fabric) \n\u00a7e*\u00a7r Fixed client data not clean up on disconnected (Fabric)",
         "4.1.3": "\u00a7a+\u00a7r Re-implemented real time ping \n\u00a7e*\u00a7r Hide Render Info when hide GUI with chat opened \n\u00a7e*\u00a7r Fixed whitespace not removed from color code \n\u00a7e*\u00a7r Fixed crash on Fabric \n\u00a7e*\u00a7r Fixed hotbar transparent issue",
         "4.1.2": "\u00a7e*\u00a7r Fixed crash with OptiFine \n\u00a7e*\u00a7r Dropped OptiFine support (Fabric)",
