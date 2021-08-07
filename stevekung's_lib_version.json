@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/stevekungs-lib",
     "promos": {
-        "1.16.5-latest": "4.1.4",
-        "1.16.5-recommended": "4.1.4",
+        "1.16.5-latest": "4.1.5",
+        "1.16.5-recommended": "4.1.5",
         "1.16.4-latest": "4.0.2",
         "1.16.4-recommended": "4.0.2",
         "1.16.3-latest": "4.0.1",
@@ -15,6 +15,7 @@
         "1.12.2-recommended": "1.1.10"
     },
     "1.16.5": {
+        "4.1.5": "\u00a7a+\u00a7r Added AutoConfig embedded library (Fabric) \n\u00a7e*\u00a7r Rewrite config to use AutoConfig system (Fabric)",
         "4.1.4": "\u00a7e*\u00a7r Disable open config file when 'Configurated' mod is present (Forge)",
         "4.1.3": "\u00a7a+\u00a7r Added 'schedule' method to CommonUtils \n\u00a7e*\u00a7r Update Architectury API to 1.17",
         "4.1.2": "\u00a7e*\u00a7r Update 'itemHandheld' method for Forge DataGenerator \n\u00a7e*\u00a7r Update internal registry \n\u00a7e*\u00a7r Fixed crash on server side",
