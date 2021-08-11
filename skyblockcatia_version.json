@@ -1,16 +1,17 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblockcatia",
     "promos": {
-        "1.16.5-latest": "2.2.3",
-        "1.16.5-recommended": "2.2.3",
+        "1.16.5-latest": "2.2.4",
+        "1.16.5-recommended": "2.2.4",
         "1.16.4-latest": "2.0.1",
         "1.16.4-recommended": "2.0.1",
         "1.16.3-latest": "2.0.0",
         "1.16.3-recommended": "2.0.0",
-        "1.8.9-latest": "1.1.0",
-        "1.8.9-recommended": "1.1.0"
+        "1.8.9-latest": "1.3.0",
+        "1.8.9-recommended": "1.3.0"
     },
     "1.16.5": {
+        "2.2.4": "\u00a7e*\u00a7r Added check for possible null skyblock profile in API Viewer \n\u00a7e*\u00a7r Mark an unknown pet skin as red in API Viewer \n\u00a7e*\u00a7r Update new pets data \n\u00a7e*\u00a7r Fixed all incompatibility with other mods, closed #92 #90 #89 #88 \n\u00a7e*\u00a7r Fixed an exception causes by gift toast \n\u00a7e*\u00a7r Fixed null check for dungeon data in API Viewer",
         "2.2.3": "\u00a7e*\u00a7r Disable open config file when 'Configurated' mod is present (Forge) \n\u00a7e*\u00a7r Fixed minor issue with item rarity rendering",
         "2.2.2": "\u00a7a+\u00a7r Added Support for Enderman Slayer \n\u00a7a+\u00a7r Added Backpack Container tab in API Viewer \n\u00a7a+\u00a7r Pet Lore and Stats are now supported in API Viewer \n\u00a7e*\u00a7r Required SteveKunG's Lib 4.1.3 \n\u00a7e*\u00a7r Update Architectury API to 1.17 \n\u00a7e*\u00a7r API Viewer is now slightly faster \n\u00a7e*\u00a7r JSON Data parsing improvement for Bazaar/Hypixel API \n\u00a7e*\u00a7r Dungeon Stats is now slightly better, but still worst \n\u00a7e*\u00a7r Fixed invalid recent active profile \n\u00a7e*\u00a7r Fixed crash when cloth config not installed (Fabric)",
         "2.2.1": "\u00a7e*\u00a7r Update from 1.8.9",
@@ -28,6 +29,7 @@
         "2.0.0": "\u00a7e*\u00a7r Fully updated to 1.16.3!"
     },
     "1.8.9": {
+        "1.3.0": "\u00a7e*\u00a7r Added check for possible null skyblock profile in API Viewer \n\u00a7e*\u00a7r Mark an unknown pet skin as red in API Viewer \n\u00a7e*\u00a7r Update new pets data \n\u00a7e*\u00a7r Fixed all incompatibility with other mods, closed #92 #90 #89 #88 \n\u00a7e*\u00a7r Fixed an exception causes by gift toast \n\u00a7e*\u00a7r Fixed null check for dungeon data in API Viewer",
         "1.2.0": "\u00a7a+\u00a7r Added Support for Enderman Slayer \n\u00a7a+\u00a7r Added Backpack Container tab in API Viewer \n\u00a7a+\u00a7r Pet Lore and Stats are now supported in API Viewer \n\u00a7e*\u00a7r API Viewer is now slightly faster \n\u00a7e*\u00a7r JSON Data parsing improvement for Bazaar/Hypixel API \n\u00a7e*\u00a7r Dungeon Stats is now slightly better, but still worst \n\u00a7e*\u00a7r Fixed crashed with beta NEU \n\u00a7e*\u00a7r Fixed invalid recent active profile \n\u00a74-\u00a7r Removed SBA Backpack renderer from API Viewer",
         "1.1.2": "\u00a7a+\u00a7r Added Disable Error Log config to hide client error logs \n\u00a7e*\u00a7r Update ability damage icon \n\u00a7e*\u00a7r Changed shortcut inventory from Ender Chest to Storage \n\u00a7e*\u00a7r Fixed crash when inventory item detection changed \n\u00a7e*\u00a7r Fixed SBA glowing teammates not working \n\u00a7e*\u00a7r Fixed unknown data type detection in API Viewer",
         "1.1.1": "\u00a7e*\u00a7r API Viewer is now getting dynamic data, including pets, minions, slayers, skills, etc.\n\u00a7e*\u00a7r Internal code clean up",
