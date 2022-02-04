@@ -13,8 +13,8 @@
         "1.15.2-recommended": "3.0.8",
         "1.14.4-latest": "2.0.8",
         "1.14.4-recommended": "2.0.8",
-        "1.12.2-latest": "1.1.11",
-        "1.12.2-recommended": "1.1.11"
+        "1.12.2-latest": "1.2.0",
+        "1.12.2-recommended": "1.2.0"
     },
     "1.17.1": {
         "5.0.1": "\u00a7e*\u00a7r Forge: Update to 1.17.1 \n\u00a7e*\u00a7r Forge: Fix crash on server \n\u00a7e*\u00a7r Rename Mod ID to \"stevekung_lib\" \n\u00a7e*\u00a7r Internal updates"
@@ -60,6 +60,7 @@
         "2.0.0": "First release for Minecraft 1.14.4!"
     },
     "1.12.2": {
+        "1.2.0": "\u00a7e*\u00a7r Include Mixin into the mod",
         "1.1.11": "\u00a7e*\u00a7r Required MixinBooter \n\u00a7e*\u00a7r Internal mixin updates",
         "1.1.10": "\u00a7e*\u00a7r Fixed crash with vivecraft, closed #8",
         "1.1.9": "\u00a7e*\u00a7r Attempt to fix crash with spongeforge \n\u00a74-\u00a7r Removed Invalid Fingerprint check",
