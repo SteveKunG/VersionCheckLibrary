@@ -1,9 +1,16 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves",
     "promos": {
+        "1.18.2-latest": "1.0.3",
+        "1.18.2-recommended": "1.0.3",
         "1.18.1-latest": "1.0.0",
         "1.18.1-recommended": "1.0.0"
     },
+    "1.18.2": {
+        "1.0.3": "\u00a7e*\u00a7r Added mod compatibility \n\u00a7e*\u00a7r **Both**: Farmer's Delight, Croptopia \n\u00a7e*\u00a7r **Forge**: Aquaculture 2, Fishing Real"
+        "1.0.2": "\u00a7e*\u00a7r Forge is now working \n\u00a7e*\u00a7r Internal registries update"
+        "1.0.1": "\u00a7e*\u00a7r Update to 1.18.2"
+    }
     "1.18.1": {
         "1.0.0": "\u00a7e*\u00a7r First public release!"
     }
