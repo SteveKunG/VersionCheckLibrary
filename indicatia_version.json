@@ -1,6 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/indicatia",
     "promos": {
+        "1.19-latest": "7.0.0",
+        "1.19-recommended": "7.0.0",
         "1.18.2-latest": "6.2.0",
         "1.18.2-recommended": "6.2.0",
         "1.17.1-latest": "5.0.1",
@@ -17,6 +19,9 @@
         "1.14.4-recommended": "2.0.5",
         "1.12.2-latest": "1.3.3",
         "1.12.2-recommended": "1.3.3"
+    },
+    "1.19": {
+        "7.0.0": "\u00a7e*\u00a7r Update to 1.19"
     },
     "1.18.2": {
         "6.2.0": "\u00a7e*\u00a7r Config now using ClothConfig for both platforms \n\u00a7e*\u00a7r Update logo"
