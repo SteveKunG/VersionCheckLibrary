@@ -1,14 +1,15 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves",
     "promos": {
-        "1.19-latest": "2.0.0",
-        "1.19-recommended": "2.0.0",
+        "1.19-latest": "2.0.1",
+        "1.19-recommended": "2.0.1",
         "1.18.2-latest": "1.0.6",
         "1.18.2-recommended": "1.0.6",
         "1.18.1-latest": "1.0.0",
         "1.18.1-recommended": "1.0.0"
     },
     "1.19": {
+        "2.0.1": "\u00a7e*\u00a7r ACTUALLY Update to 1.19 \n\u00a7e*\u00a7r Fix mod requirements \n\u00a7e*\u00a7r [Fabric] Fixed Ancientscales now spawning inside Cold Ocean Ruin",
         "2.0.0": "\u00a7e*\u00a7r Update to 1.19"
     },
     "1.18.2": {
