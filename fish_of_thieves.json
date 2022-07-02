@@ -3,8 +3,8 @@
     "promos": {
         "1.19-latest": "2.0.2",
         "1.19-recommended": "2.0.2",
-        "1.18.2-latest": "1.0.6",
-        "1.18.2-recommended": "1.0.6",
+        "1.18.2-latest": "1.0.7",
+        "1.18.2-recommended": "1.0.7",
         "1.18.1-latest": "1.0.0",
         "1.18.1-recommended": "1.0.0"
     },
@@ -14,6 +14,7 @@
         "2.0.0": "\u00a7e*\u00a7r Update to 1.19"
     },
     "1.18.2": {
+        "1.0.7": "\u00a7e*\u00a7r Backport - All fish can now control biome to spawn by datapack \n\u00a7e*\u00a7r [Forge] Fix using wrong `Lists` class, closed #12 \n\u00a7e*\u00a7r [Fabric] Required Fabric API 0.57.x",
         "1.0.6": "\u00a7e*\u00a7r [Forge] Use ClothConfig for setting configs \n\u00a7e*\u00a7r [Forge] Fixed crash on a server \n\u00a7e*\u00a7r [Fabric] Fixed crash with latest Fabric LootTable API, Closed #10",
         "1.0.5": "\u00a7e*\u00a7r Change Devilfish and Battlegill spawns only in the biome found on Overworld \n\u00a7e*\u00a7r Fixed crash on other dimension without terrain information, Closed #6",
         "1.0.4": "\u00a7e*\u00a7r Fixed crashes with MineColonies. Closed #5",
