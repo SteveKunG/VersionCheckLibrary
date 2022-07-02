@@ -1,14 +1,15 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves",
     "promos": {
-        "1.19-latest": "2.0.2",
-        "1.19-recommended": "2.0.2",
+        "1.19-latest": "2.0.3",
+        "1.19-recommended": "2.0.3",
         "1.18.2-latest": "1.0.7",
         "1.18.2-recommended": "1.0.7",
         "1.18.1-latest": "1.0.0",
         "1.18.1-recommended": "1.0.0"
     },
     "1.19": {
+        "2.0.3": "\u00a7e*\u00a7r [Forge] Fix using wrong `Lists` class, closed #12 \n\u00a7e*\u00a7r [Fabric] Required Fabric API 0.57.x",
         "2.0.2": "\u00a7e*\u00a7r All fish can now control biome to spawn by using datapack \n\u00a7e*\u00a7r [Forge] Required Forge 41.0.32 \n\u00a7e*\u00a7r [Forge] Use new StructureModifier for fish spawning",
         "2.0.1": "\u00a7e*\u00a7r ACTUALLY Update to 1.19 \n\u00a7e*\u00a7r Fix mod requirements \n\u00a7e*\u00a7r [Fabric] Fixed Ancientscales now spawning inside Cold Ocean Ruin",
         "2.0.0": "\u00a7e*\u00a7r Update to 1.19"
