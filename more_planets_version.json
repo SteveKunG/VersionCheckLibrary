@@ -1,10 +1,11 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/more-planets-gc-addon",
     "promos": {
-        "1.12.2-latest": "2.2.3",
-        "1.12.2-recommended": "2.2.3"
+        "1.12.2-latest": "2.2.4",
+        "1.12.2-recommended": "2.2.4"
     },
     "1.12.2": {
+        "2.2.4": "\u00a7e*\u00a7r Fixed crash related with Space Nether on Galaxy Map Screen (GalaxySpace compatibility), closed #145",
         "2.2.3": "\u00a7e*\u00a7r Require MixinBooter 4.2 \n\u00a7e*\u00a7r Better space nether portal logic, closed #140 \n\u00a7e*\u00a7r Slightly better Space Warp Pad usage and some fixes, closed #141 \n\u00a7e*\u00a7r Fixed Space Nether still displayed on celestial selection screen, closed #135 \n\u00a7e*\u00a7r Fixed bed exploding on Fronos, partially fix #140",
         "2.2.2": "\u00a7e*\u00a7r Required MixinBooter and SteveKunG's Lib 1.1.11+ \n\u00a7e*\u00a7r Survival Planet feature is now working as expected (except for multiplayer) \n\u00a7e*\u00a7r Space Portal is now easier to use, right click to teleport \n\u00a7e*\u00a7r Added minor detail to Frolia Sapling texture \n\u00a7e*\u00a7r Increased Diona/Chalos structures spawn rate \n\u00a7e*\u00a7r Hide Space Nether from Celestial Selection Screen (GalaxySpace compatible) \n\u00a7e*\u00a7r Internal mixin update \n\u00a7e*\u00a7r Fixed Oscalea Log texture tiling \n\u00a7e*\u00a7r Fixed some crash on the server",
         "2.2.1": "\u00a7e*\u00a7r Downgrade GC Build to 280 \n\u00a7e*\u00a7r Ore Dictionary support for some Fronos Blocks \n\u00a7e*\u00a7r Attempt to fix performance issue with Shield Generator, closed #104 \n\u00a7e*\u00a7r Fixed crash when Vein Floater death, closed #106 \n\u00a7e*\u00a7r Update Russian Language",
