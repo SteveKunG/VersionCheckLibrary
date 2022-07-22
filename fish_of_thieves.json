@@ -9,22 +9,22 @@
         "1.18.1-recommended": "1.0.0"
     },
     "1.19": {
-        "2.0.4": "\u00a7e*\u00a7r Required Forge 41.0.94",
-        "2.0.3": "\u00a7e*\u00a7r [Forge] Fix using wrong `Lists` class, closed #12 \n\u00a7e*\u00a7r [Fabric] Required Fabric API 0.57.x",
-        "2.0.2": "\u00a7e*\u00a7r All fish can now control biome to spawn by using datapack \n\u00a7e*\u00a7r [Forge] Required Forge 41.0.32 \n\u00a7e*\u00a7r [Forge] Use new StructureModifier for fish spawning",
-        "2.0.1": "\u00a7e*\u00a7r ACTUALLY Update to 1.19 \n\u00a7e*\u00a7r Fix mod requirements \n\u00a7e*\u00a7r [Fabric] Fixed Ancientscales now spawning inside Cold Ocean Ruin",
-        "2.0.0": "\u00a7e*\u00a7r Update to 1.19"
+        "2.0.0": "* Update to 1.19",
+        "2.0.1": "* ACTUALLY Update to 1.19\n* Fix mod requirements\n* [Fabric] Fixed Ancientscales now spawning inside Cold Ocean Ruin",
+        "2.0.2": "* All fish can now control biome to spawn by using datapack\n* [Forge] Required Forge 41.0.32\n* [Forge] Use new StructureModifier for fish spawning",
+        "2.0.3": "* [Forge] Fix using wrong `Lists` class, closed #12\n* [Fabric] Required Fabric API 0.57.x",
+        "2.0.4": "* [Forge] Required Forge 41.0.94"
     },
     "1.18.2": {
-        "1.0.7": "\u00a7e*\u00a7r Backport - All fish can now control biome to spawn by datapack \n\u00a7e*\u00a7r [Forge] Fix using wrong `Lists` class, closed #12 \n\u00a7e*\u00a7r [Fabric] Required Fabric API 0.57.x",
-        "1.0.6": "\u00a7e*\u00a7r [Forge] Use ClothConfig for setting configs \n\u00a7e*\u00a7r [Forge] Fixed crash on a server \n\u00a7e*\u00a7r [Fabric] Fixed crash with latest Fabric LootTable API, Closed #10",
-        "1.0.5": "\u00a7e*\u00a7r Change Devilfish and Battlegill spawns only in the biome found on Overworld \n\u00a7e*\u00a7r Fixed crash on other dimension without terrain information, Closed #6",
-        "1.0.4": "\u00a7e*\u00a7r Fixed crashes with MineColonies. Closed #5",
-        "1.0.3": "\u00a7e*\u00a7r Added mod compatibility \n\u00a7e*\u00a7r **Both**: Farmer's Delight, Croptopia \n\u00a7e*\u00a7r **Forge**: Aquaculture 2, Fishing Real",
-        "1.0.2": "\u00a7e*\u00a7r Forge is now working \n\u00a7e*\u00a7r Internal registries update",
-        "1.0.1": "\u00a7e*\u00a7r Update to 1.18.2"
+        "1.0.1": "* Update to 1.18.2",
+        "1.0.2": "* Forge is now working\n* Internal registries update",
+        "1.0.3": "* Added mod compatibility\n* **Both**: Farmer's Delight, Croptopia\n* **Forge**: Aquaculture 2, Fishing Real",
+        "1.0.4": "* Fixed crashes with MineColonies. Closed #5",
+        "1.0.5": "* Change Devilfish and Battlegill spawns only in the biome found on Overworld\n* Fixed crash on other dimension without terrain information, Closed #6",
+        "1.0.6": "* [Forge] Use ClothConfig for setting configs\n* [Forge] Fixed crash on a server\n* [Fabric] Fixed crash with latest Fabric LootTable API, Closed #10",
+        "1.0.7": "* Backport - All fish can now control biome to spawn by datapack\n* [Forge] Fix using wrong `Lists` class, closed #12\n* [Fabric] Required Fabric API 0.57.x"
     },
     "1.18.1": {
-        "1.0.0": "\u00a7e*\u00a7r First public release!"
+        "1.0.0": "* First public release!"
     }
 }

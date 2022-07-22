@@ -21,63 +21,63 @@
         "1.12.2-recommended": "1.3.3"
     },
     "1.19": {
-        "7.0.2": "\u00a7e*\u00a7r Required Forge 41.0.94",
-        "7.0.1": "\u00a7e*\u00a7r ACTUALLY Update to 1.19 \n\u00a7e*\u00a7r Fix mod requirements",
-        "7.0.0": "\u00a7e*\u00a7r Update to 1.19"
+        "7.0.0": "* Update to 1.19",
+        "7.0.1": "* ACTUALLY Update to 1.19\n* Fix mod requirements",
+        "7.0.2": "* [Forge] Required Forge 41.0.94"
     },
     "1.18.2": {
-        "6.2.0": "\u00a7e*\u00a7r Config now using ClothConfig for both platforms \n\u00a7e*\u00a7r Update logo"
+        "6.2.0": "* Config now using ClothConfig for both platforms\n* Update logo"
     },
     "1.17.1": {
-        "5.0.1": "\u00a7e*\u00a7r Move Offhand item displayed on Hotbar to left side \n\u00a7e*\u00a7r Forge: Fixed alternate chat key not registered \n\u00a7e*\u00a7r Fixed Equipment HUD render twice \n\u00a7e*\u00a7r Fixed alternate chat key translation \n\u00a7e*\u00a7r Removed Mojang Status Checker"
+        "5.0.1": "* Move Offhand item displayed on Hotbar to left side\n* Forge: Fixed alternate chat key not registered\n* Fixed Equipment HUD render twice\n* Fixed alternate chat key translation\n* Removed Mojang Status Checker"
     },
     "1.16.5": {
-        "4.1.8": "\u00a7a+\u00a7r Added Antisteal \n\u00a7a+\u00a7r Added Select Next/Previous Profile keys \n\u00a7e*\u00a7r Optimized assets. Thanks to RDKRACZ \n\u00a7e*\u00a7r Fixed natural potion detection for render info",
-        "4.1.7": "\u00a7a+\u00a7r Added AutoConfig/SteveKunG's Lib into embedded library (Fabric) \n\u00a7a+\u00a7r Added Duration Time on Vanilla Potion HUD \n\u00a7e*\u00a7r Move game info below Vanilla Potion HUD \n\u00a7e*\u00a7r Bring back Ping into left side \n\u00a7e*\u00a7r Fixed multiple issue with text position on Potion HUD, closed #34 \n\u00a7e*\u00a7r Potion HUD now sorted by duration",
-        "4.1.6": "\u00a7e*\u00a7r Disable open config file when 'Configurated' mod is present (Forge) \n\u00a7e*\u00a7r Fixed /inprofile command not working properly \n\u00a7e*\u00a7r Fixed item lighting on buttons \n\u00a7e*\u00a7r Fixed alpha rendering on Equipment HUD \n\u00a7e*\u00a7r Fixed crashed when open preview screen, closed #33",
-        "4.1.5": "\u00a7e*\u00a7r Required SteveKunG's Lib 4.1.3 \n\u00a7e*\u00a7r Update Architectury API to 1.17",
-        "4.1.4": "\u00a7e*\u00a7r Overworld TPS is now working correctly (Fabric) \n\u00a7e*\u00a7r Fixed nether and the end client world freeze (Fabric) \n\u00a7e*\u00a7r Fixed client data not clean up on disconnected (Fabric)",
-        "4.1.3": "\u00a7a+\u00a7r Re-implemented real time ping \n\u00a7e*\u00a7r Hide Render Info when hide GUI with chat opened \n\u00a7e*\u00a7r Fixed whitespace not removed from color code \n\u00a7e*\u00a7r Fixed crash on Fabric \n\u00a7e*\u00a7r Fixed hotbar transparent issue",
-        "4.1.2": "\u00a7e*\u00a7r Fixed crash with OptiFine \n\u00a7e*\u00a7r Dropped OptiFine support (Fabric)",
-        "4.1.1": "\u00a7e*\u00a7r Config can now opened in mod list screen (Forge) \n\u00a7e*\u00a7r Update Thai Language",
-        "4.1.0": "\u00a7e*\u00a7r Now using Architectury API",
-        "4.0.3": "\u00a7e*\u00a7r Update to 1.16.5 \n\u00a7e*\u00a7r Fixed minigame button list conflict with another mod \n\u00a7e*\u00a7r Fixed crash when executed command"
+        "4.0.3": "* Update to 1.16.5\n* Fixed minigame button list conflict with another mod\n* Fixed crash when executed command",
+        "4.1.0": "* Now using Architectury API",
+        "4.1.1": "* Config can now opened in mod list screen (Forge)\n* Update Thai Language",
+        "4.1.2": "* Fixed crash with OptiFine\n* Dropped OptiFine support (Fabric)",
+        "4.1.3": "* Re-implemented real time ping\n* Hide Render Info when hide GUI with chat opened\n* Fixed whitespace not removed from color code\n* Fixed crash on Fabric\n* Fixed hotbar transparent issue",
+        "4.1.4": "* Overworld TPS is now working correctly (Fabric)\n* Fixed nether and the end client world freeze (Fabric)\n* Fixed client data not clean up on disconnected (Fabric)",
+        "4.1.5": "* Required SteveKunG's Lib 4.1.3\n* Update Architectury API to 1.17",
+        "4.1.6": "* Disable open config file when 'Configurated' mod is present (Forge)\n* Fixed /inprofile command not working properly\n* Fixed item lighting on buttons\n* Fixed alpha rendering on Equipment HUD\n* Fixed crashed when open preview screen, closed #33",
+        "4.1.7": "* Added AutoConfig/SteveKunG's Lib into embedded library (Fabric)\n* Added Duration Time on Vanilla Potion HUD\n* Move game info below Vanilla Potion HUD\n* Bring back Ping into left side\n* Fixed multiple issue with text position on Potion HUD, closed #34\n* Potion HUD now sorted by duration",
+        "4.1.8": "* Added Antisteal\n* Added Select Next/Previous Profile keys\n* Optimized assets. Thanks to RDKRACZ\n* Fixed natural potion detection for render info"
     },
     "1.16.4": {
-        "4.0.2": "\u00a7e*\u00a7r Fixed enchanted skull rendering incompatible with non-vanilla head, closed #22 \n\u00a7e*\u00a7r Fixed alternate key for chat \n\u00a7e*\u00a7r Fixed enchanted glint for armor \n\u00a74-\u00a7r Removed dirty hack for confirm to disconnect feature",
-        "4.0.1": "\u00a7e*\u00a7r Update to 1.16.4"
+        "4.0.1": "* Update to 1.16.4",
+        "4.0.2": "* Fixed enchanted skull rendering incompatible with non-vanilla head, closed #22\n* Fixed alternate key for chat\n* Fixed enchanted glint for armor\n* Removed dirty hack for confirm to disconnect feature"
     },
     "1.16.3": {
-        "4.0.0": "\u00a7a+\u00a7r Added Alternate Chat Key config \n\u00a7e*\u00a7r Restore missing features (TPS) \n\u00a7e*\u00a7r Update to 1.16.3 \n\u00a7e*\u00a7r Efficient code for MinigameData \n\u00a7e*\u00a7r Bug fixes"
+        "4.0.0": "* Added Alternate Chat Key config\n* Restore missing features (TPS)\n* Update to 1.16.3\n* Efficient code for MinigameData\n* Bug fixes"
     },
     "1.15.2": {
-        "3.0.6": "\u00a7e*\u00a7r Required SteveKunG's Lib 3.0.8 \n\u00a7e*\u00a7r Chinese language support \n\u00a7e*\u00a7r Fixed Optifine incompatibility \n\u00a74-\u00a7r Remove toggle sprint hack",
-        "3.0.5": "\u00a7a+\u00a7r Added player head on SkyBlock minigame \n\u00a7e*\u00a7r Required SteveKunG's Lib 3.0.7 \n\u00a7e*\u00a7r Fixed chat mode not extensible \n\u00a74-\u00a7r Removed hypixel nickname detection \n\u00a74-\u00a7r Removed old fishing rod config",
-        "3.0.4": "\u00a7a+\u00a7r Added ChatMode to IExtensibleEnum \n\u00a7e*\u00a7r Fixed minigame command \n\u00a7e*\u00a7r Required SteveKunG's Lib 3.0.5",
-        "3.0.3": "\u00a7e*\u00a7r Update Dropdown minigames API \n\u00a7e*\u00a7r Required SteveKunG's Lib 3.0.4",
-        "3.0.2": "\u00a7e*\u00a7r Re\u00a74-\u00a7renable old hurt overlay \n\u00a7e*\u00a7r Compatible with OptiFine pre14 \n\u00a7e*\u00a7r Downgrade mixin version to 0.8",
-        "3.0.1": "\u00a7e*\u00a7r Better AFK Reason empty text check \n\u00a7e*\u00a7r Fixed mixin crash with public method",
-        "3.0.0": "First release for Minecraft 1.15.2!\n\u00a7e*\u00a7r Rewrite everything! \n\u00a74-\u00a7r Removed useless features"
+        "3.0.0": "First release for Minecraft 1.15.2!\n* Rewrite everything!\n* Removed useless features",
+        "3.0.1": "* Better AFK Reason empty text check\n* Fixed mixin crash with public method",
+        "3.0.2": "* Re-enable old hurt overlay\n* Compatible with OptiFine pre14\n* Downgrade mixin version to 0.8",
+        "3.0.3": "* Update Dropdown minigames API\n* Required SteveKunG's Lib 3.0.4",
+        "3.0.4": "* Added ChatMode to IExtensibleEnum\n* Fixed minigame command\n* Required SteveKunG's Lib 3.0.5",
+        "3.0.5": "* Added player head on SkyBlock minigame\n* Required SteveKunG's Lib 3.0.7\n* Fixed chat mode not extensible\n* Removed hypixel nickname detection\n* Removed old fishing rod config",
+        "3.0.6": "* Required SteveKunG's Lib 3.0.8\n* Chinese language support\n* Fixed Optifine incompatibility\n* Remove toggle sprint hack"
     },
     "1.14.4": {
-        "2.0.5": "\u00a7e*\u00a7r Required SteveKunG's Lib 2.0.8 \n\u00a7e*\u00a7r Chinese language support",
-        "2.0.4": "\u00a7a+\u00a7r Added player head on SkyBlock minigame \n\u00a7e*\u00a7r Required SteveKunG's Lib 2.0.7 \n\u00a7e*\u00a7r Fixed chat mode not extensible \n\u00a7e*\u00a7r Fixed crash with elytra layer \n\u00a74-\u00a7r Removed hypixel nickname detection \n\u00a74-\u00a7r Removed old fishing rod config",
-        "2.0.3": "\u00a7a+\u00a7r Added ChatMode to IExtensibleEnum \n\u00a7e*\u00a7r Fixed minigame command \n\u00a7e*\u00a7r Required SteveKunG's Lib 2.0.5",
-        "2.0.2": "\u00a7e*\u00a7r Update Dropdown minigames API \n\u00a7e*\u00a7r Required SteveKunG's Lib 2.0.4",
-        "2.0.1": "\u00a7e*\u00a7r Better AFK Reason empty text check",
-        "2.0.0": "First release for Minecraft 1.14.4!\n\u00a7e*\u00a7r Rewrite everything! \n\u00a74-\u00a7r Removed useless features"
+        "2.0.0": "First release for Minecraft 1.14.4!\n* Rewrite everything!\n* Removed useless features",
+        "2.0.1": "* Better AFK Reason empty text check",
+        "2.0.2": "* Update Dropdown minigames API\n* Required SteveKunG's Lib 2.0.4",
+        "2.0.3": "* Added ChatMode to IExtensibleEnum\n* Fixed minigame command\n* Required SteveKunG's Lib 2.0.5",
+        "2.0.4": "* Added player head on SkyBlock minigame\n* Required SteveKunG's Lib 2.0.7\n* Fixed chat mode not extensible\n* Fixed crash with elytra layer\n* Removed hypixel nickname detection\n* Removed old fishing rod config",
+        "2.0.5": "* Required SteveKunG's Lib 2.0.8\n* Chinese language support"
     },
     "1.12.2": {
-        "1.3.3": "\u00a7e*\u00a7r Update Minigame database \n\u00a7e*\u00a7r Fixed possible index out of bounds",
-        "1.3.2": "\u00a7e*\u00a7r Disable Automatic Stuff on Hypixel",
-        "1.3.1": "\u00a7a+\u00a7r Added Coordinate XZ to Direction \n\u00a7e*\u00a7r Update to Latest Forge 1.12.2 \n\u00a7e*\u00a7r Fixed AFK 360_move mode",
-        "1.3.0": "\u00a7a+\u00a7r Added Ping Mode \n\u00a7a+\u00a7r Re\u00a74-\u00a7radded smooth sneaking view \n\u00a7e*\u00a7r Required SteveKunG's Lib 1.1.3 \n\u00a7e*\u00a7r Update minigames and optimization \n\u00a7e*\u00a7r Improve AFK Movement \n\u00a7e*\u00a7r Resetting config is now work in\u00a74-\u00a7rgame without restart \n\u00a7e*\u00a7r Minor change to Old Fishing Rod rendering \n\u00a7e*\u00a7r Minor improvement to render health status \n\u00a7e*\u00a7r More improvement to Right Click to Add Party \n\u00a7e*\u00a7r More fixes to Player Tab Overlay (latency display) \n\u00a7e*\u00a7r Fixed button id conflict with Creative Tabs \n\u00a7e*\u00a7r Fixed Hotbar rendering when disable boss bar \n\u00a7e*\u00a7r Fixed string width issue in Player List overlay",
-        "1.2.6": "\u00a7e*\u00a7r Using Mixin Framework, please check if it incompatible with other mods. \n\u00a7e*\u00a7r Update Forge version \n\u00a7e*\u00a7r More compatibility with other mods.",
-        "1.2.5": "\u00a7e*\u00a7r Update Minigames JSON \n\u00a7e*\u00a7r Minigame Button now sorted by A\u00a74-\u00a7rZ \n\u00a7e*\u00a7r Now Required SteveKunG's Lib 1.0.5",
-        "1.2.4": "\u00a7e*\u00a7r Hypixel Minigames now always up\u00a74-\u00a7rto\u00a74-\u00a7rdate! \n\u00a7e*\u00a7r Now Required SteveKunG's Lib 1.0.5 \n\u00a7e*\u00a7r Update Hypixel Minigames",
-        "1.2.3": "\u00a7a+\u00a7r Added YouTube Chat mod Current Watched support \n\u00a7e*\u00a7r Now Required SteveKunG's Lib 1.0.3 \n\u00a7e*\u00a7r Update Hypixel Minigames",
-        "1.2.2": "\u00a7a+\u00a7r Added Cops and Crims hypixel minigames list \n\u00a7e*\u00a7r Fixed AFK 360 mode \n\u00a7e*\u00a7r Fixed small font rendering \n\u00a74-\u00a7r Removed In\u00a74-\u00a7rgame change log",
-        "1.2.1": "\u00a7e*\u00a7r Update Hypixel minigames \n\u00a7e*\u00a7r Adjust server info in Custom Multiplayer GUI \n\u00a7e*\u00a7r Fixed unicode font renderer \n\u00a7e*\u00a7r Fixed only damaged status \n\u00a7e*\u00a7r Fixed Multiplayer GUI",
-        "1.2.0": "\u00a7a+\u00a7r Added New Extended Config GUI \n\u00a7a+\u00a7r Added /autofish command \n\u00a7a+\u00a7r Added /swedentime command \n\u00a7a+\u00a7r Added mouse scroll support for Hypixel Minigame list \n\u00a7a+\u00a7r Added Galacticraft Planet time support \n\u00a7e*\u00a7r Custom Cape now save per user \n\u00a7e*\u00a7r Improve profile settings \n\u00a7e*\u00a7r Improve Click to Disconnect Button \n\u00a7e*\u00a7r More bug fixes \n\u00a7e*\u00a7r More GUI fixes \n\u00a7e*\u00a7r Fixed Toggle Sprint key binding issue. Closes #1"
+        "1.2.0": "* Added New Extended Config GUI\n* Added /autofish command\n* Added /swedentime command\n* Added mouse scroll support for Hypixel Minigame list\n* Added Galacticraft Planet time support\n* Custom Cape now save per user\n* Improve profile settings\n* Improve Click to Disconnect Button\n* More bug fixes\n* More GUI fixes\n* Fixed Toggle Sprint key binding issue. Closes #1",
+        "1.2.1": "* Update Hypixel minigames\n* Adjust server info in Custom Multiplayer GUI\n* Fixed unicode font renderer\n* Fixed only damaged status\n* Fixed Multiplayer GUI",
+        "1.2.2": "* Added Cops and Crims hypixel minigames list\n* Fixed AFK 360 mode\n* Fixed small font rendering\n* Removed In-game change log",
+        "1.2.3": "* Added YouTube Chat mod Current Watched support\n* Now Required SteveKunG's Lib 1.0.3\n* Update Hypixel Minigames",
+        "1.2.4": "* Hypixel Minigames now always up to date!\n* Now Required SteveKunG's Lib 1.0.5\n* Update Hypixel Minigames",
+        "1.2.5": "* Update Minigames JSON\n* Minigame Button now sorted by A-Z\n* Now Required SteveKunG's Lib 1.0.5",
+        "1.2.6": "* Using Mixin Framework, please check if it incompatible with other mods.\n* Update Forge version\n* More compatibility with other mods.",
+        "1.3.0": "* Added Ping Mode\n* Re-added smooth sneaking view\n* Required SteveKunG's Lib 1.1.3\n* Update minigames and optimization\n* Improve AFK Movement\n* Resetting config is now work in-game without restart\n* Minor change to Old Fishing Rod rendering\n* Minor improvement to render health status\n* More improvement to Right Click to Add Party\n* More fixes to Player Tab Overlay (latency display)\n* Fixed button id conflict with Creative Tabs\n* Fixed Hotbar rendering when disable boss bar\n* Fixed string width issue in Player List overlay",
+        "1.3.1": "* Added Coordinate XZ to Direction\n* Update to Latest Forge 1.12.2\n* Fixed AFK 360_move mode",
+        "1.3.2": "* Disable Automatic Stuff on Hypixel",
+        "1.3.3": "* Update Minigame database\n* Fixed possible index out of bounds"
     }
 }
