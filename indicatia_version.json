@@ -18,7 +18,9 @@
         "1.14.4-latest": "2.0.5",
         "1.14.4-recommended": "2.0.5",
         "1.12.2-latest": "1.3.3",
-        "1.12.2-recommended": "1.3.3"
+        "1.12.2-recommended": "1.3.3",
+        "1.19.3-latest": "7.1.0",
+        "1.19.3-recommended": "7.1.0"
     },
     "1.19": {
         "7.0.0": "* Update to 1.19",
@@ -79,5 +81,8 @@
         "1.3.1": "* Added Coordinate XZ to Direction\n* Update to Latest Forge 1.12.2\n* Fixed AFK 360_move mode",
         "1.3.2": "* Disable Automatic Stuff on Hypixel",
         "1.3.3": "* Update Minigame database\n* Fixed possible index out of bounds"
+    },
+    "1.19.3": {
+        "7.1.0": "* Update to 1.19.3"
     }
 }
