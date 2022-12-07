@@ -10,7 +10,9 @@
         "1.16.5-latest": "2.0.2",
         "1.16.5-recommended": "2.0.2",
         "1.12.2-latest": "1.4.1",
-        "1.12.2-recommended": "1.4.1"
+        "1.12.2-recommended": "1.4.1",
+        "1.19.3-latest": "5.1.0",
+        "1.19.3-recommended": "5.1.0"
     },
     "1.19": {
         "5.0.0": "* Update to 1.19",
@@ -33,5 +35,8 @@
     "1.12.2": {
         "1.4.0": "* Added Set Live ID command\n* Added Current Live View Count\n* Added \"Remove Moderator\" feature\n* Required SteveKunG's Lib 1.0.3\n* Right Side Chat improvement\n* Major mod rewrite",
         "1.4.1": "* Adjust button position\n* More YT message improved\n* Now required SteveKunG's Lib 1.0.5\n* Update latest YouTube API Libraries\n* Removed Live ID Config"
+    },
+    "1.19.3": {
+        "5.1.0": "* Update to 1.19.3"
     }
 }
