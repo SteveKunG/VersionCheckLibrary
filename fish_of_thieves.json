@@ -9,8 +9,8 @@
         "1.18.1-recommended": "1.0.0",
         "1.19.2-latest": "2.2.1",
         "1.19.2-recommended": "2.2.1",
-        "1.19.3-latest": "2.3.0",
-        "1.19.3-recommended": "2.3.0"
+        "1.19.3-latest": "2.3.1",
+        "1.19.3-recommended": "2.3.1"
     },
     "1.19": {
         "2.0.0": "* Update to 1.19",
@@ -44,6 +44,7 @@
         "2.2.2": "* Fix a critical bug for some advancements are not working at all\n* Fix Salmon named \"Sally\" not working",
         "2.2.3": "* Re-enabled Aquaculture mod compatibility",
         "2.2.4": "* Fix Aquaculture 2 mod version requirement, now requires 2.4.10",
-        "2.3.0": "* Added New Block - Fish Plaques: with 4 variants (Wooden, Iron Frame, Golden Frame and Gilded)\n* Added New Structure - Seapost\n* Added fish bucket trades to Fisherman\n* Added Worms to Emerald trades to Fisherman\n* Added new config \"displayAllFishVariantInCreativeTab\" - Display all fish variant in Creative Tab\n* Added Naturalist and Alex's Mobs compatibility\n* Fishing Loot weight balanced\n* Villager trades balanced\n* Minor fish bone model optimization\n* Update Raw Splashtail, Cooked Splashtail and Bucket of Splashtail textures\n* Fixed shadow size for trophy fish\n* [Forge] - Fix villager trades"
+        "2.3.0": "* Added New Block - Fish Plaques: with 4 variants (Wooden, Iron Frame, Golden Frame and Gilded)\n* Added New Structure - Seapost\n* Added fish bucket trades to Fisherman\n* Added Worms to Emerald trades to Fisherman\n* Added new config \"displayAllFishVariantInCreativeTab\" - Display all fish variant in Creative Tab\n* Added Naturalist and Alex's Mobs compatibility\n* Fishing Loot weight balanced\n* Villager trades balanced\n* Minor fish bone model optimization\n* Update Raw Splashtail, Cooked Splashtail and Bucket of Splashtail textures\n* Fixed shadow size for trophy fish\n* [Forge] - Fix villager trades",
+        "2.3.1": "* Added Neutral Fish Behavior config\n* Added Drop and Pick fishes with variants config\n* Added block and item tags for all fish plaques\n* Added more spawn control by tags\n* Added rewards for fish collectors advancements\n* All Fish now drop item with their variants (Configurated)\n* All Fish picked up in the bucket will display their variants (Configurated)\n* All Fish loot tables now generate with their variants (Configurated)\n* Update entity movement to matches block facing when break fish plaque\n* Fixed 1 pixel error on Wrecker Bucket\n* Fixed Fish Plaque block data update from command\n* Fixed feeding fish with worms not working properly on server side\n* Fixed master fish collectors advancement not working\n* Tadpole Update :D\n* Remove unused fish plaque item texture"
     }
 }
