@@ -11,8 +11,8 @@
         "1.19.2-recommended": "2.2.3",
         "1.19.3-latest": "2.3.3",
         "1.19.3-recommended": "2.3.3",
-        "1.19.4-latest": "2.4.0",
-        "1.19.4-recommended": "2.4.0"
+        "1.19.4-latest": "2.4.1",
+        "1.19.4-recommended": "2.4.1"
     },
     "1.19": {
         "2.0.0": "* Update to 1.19",
@@ -54,6 +54,7 @@
         "2.3.3": "* [Technical] Clean up Access Wideners/Access Transformers\n* Fix `CriteriaTriggers.register` crash, Fixes #34"
     },
     "1.19.4": {
-        "2.4.0": "* Update to 1.19.4\n* Added fish spawn weight configs\n* Added Fish Bone world gen feature\n* Added configs to disable worms drop\n* Added ability to shift right-click on the Fish Plaque to cycle backwards rotation\n* Reduce Seaposts structure generation spawn rate\n* Translate config tooltips\n* Disable Ambient Occlusion for Fish Bone model\n* Update `ru_ru.json` (#31)\n* Update `zh_cn.json` (#33)\n* Remove unnecessary `isRainingAt` patch"
+        "2.4.0": "* Update to 1.19.4\n* Added fish spawn weight configs\n* Added Fish Bone world gen feature\n* Added configs to disable worms drop\n* Added ability to shift right-click on the Fish Plaque to cycle backwards rotation\n* Reduce Seaposts structure generation spawn rate\n* Translate config tooltips\n* Disable Ambient Occlusion for Fish Bone model\n* Update `ru_ru.json` (#31)\n* Update `zh_cn.json` (#33)\n* Remove unnecessary `isRainingAt` patch",
+        "2.4.1": "* [Technical] Clean up Access Wideners/Access Transformers\n* Fix `CriteriaTriggers.register` crash, Fixes #34"
     }
 }
