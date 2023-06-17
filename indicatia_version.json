@@ -22,7 +22,9 @@
         "1.19.3-latest": "7.1.2",
         "1.19.3-recommended": "7.1.2",
         "1.19.4-latest": "7.2.1",
-        "1.19.4-recommended": "7.2.1"
+        "1.19.4-recommended": "7.2.1",
+        "1.20.1-latest": "8.0.0",
+        "1.20.1-recommended": "8.0.0"
     },
     "1.19": {
         "7.0.0": "* Update to 1.19",
@@ -91,5 +93,8 @@
     },
     "1.19.4": {
         "7.2.1": "* Added Saved Last Search in recipe book feature"
+    },
+    "1.20.1": {
+        "8.0.0": "* Update to support 1.20/1.20.1\n* Added Saved Last Search in recipe book feature"
     }
 }
