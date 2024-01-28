@@ -7,14 +7,16 @@
         "1.18.2-recommended": "1.1.1",
         "1.18.1-latest": "1.0.0",
         "1.18.1-recommended": "1.0.0",
-        "1.19.2-latest": "2.2.4",
-        "1.19.2-recommended": "2.2.4",
+        "1.19.2-latest": "2.2.6",
+        "1.19.2-recommended": "2.2.6",
         "1.19.3-latest": "2.3.3",
         "1.19.3-recommended": "2.3.3",
         "1.19.4-latest": "2.4.2",
         "1.19.4-recommended": "2.4.2",
-        "1.20.1-latest": "3.0.2",
-        "1.20.1-recommended": "3.0.2"
+        "1.20.1-latest": "3.0.4",
+        "1.20.1-recommended": "3.0.4",
+        "1.20.2-latest": "3.0.4",
+        "1.20.2-recommended": "3.0.4"
     },
     "1.19": {
         "2.0.0": "* Update to 1.19",
@@ -44,7 +46,9 @@
         "2.2.1": "* Added Neutral Fish Behavior config\n* Added Drop and Pick fishes with variants config\n* Added block and item tags for all fish plaques\n* Added more spawn control by tags\n* Added rewards for fish collectors advancements\n* All Fish now drop item with their variants (Configurated)\n* All Fish picked up in the bucket will display their variants (Configurated)\n* All Fish loot tables now generate with their variants (Configurated)\n* Update entity movement to matches block facing when break fish plaque\n* Fixed 1 pixel error on Wrecker Bucket\n* Fixed Fish Plaque block data update from command\n* Fixed feeding fish with worms not working properly on server side\n* Fixed master fish collectors advancement not working\n* Tadpole Update :D\n* Remove unused fish plaque item texture",
         "2.2.2": "* Added configs to change Seapost structure spawn rate (1.19.2 only)\n* Added fish spawn weight configs\n* Added Fish Bone world gen feature\n* Added configs to disable worms drop\n* Added ability to shift right-click on the Fish Plaque to cycle backwards rotation\n* Reduce Seaposts structure generation spawn rate\n* Translate config tooltips\n* Disable Ambient Occlusion for Fish Bone model\n* Update `ru_ru.json` (#31)\n* Update `zh_cn.json` (#33)\n* Remove unnecessary `isRainingAt` patch",
         "2.2.3": "* [Technical] Clean up Access Wideners/Access Transformers\n* Fix `CriteriaTriggers.register` crash, Fixes #34",
-        "2.2.4": "* Move addFishSpawn for structures to NaturalSpawner class, closes #36"
+        "2.2.4": "* Move addFishSpawn for structures to NaturalSpawner class, closes #36",
+        "2.2.5": "* 1.20: Add Fish Bone to Ocean Ruins Archaeology loot\n* Added Alex's Caves Radgill compatibility\n* New Brain AIs system for fishes\n* New AI: Combine a flock with another small flock\n* New AI: Avoid Magma Block and Bubble Column\n* New AI: Trophy Fish will act as a flock leader\n* New AI: Wreckers are now swim to seek low light\n* Added Trophy Spawn Egg (Can be configured)\n* Plentifin can be used to brew Luck potion\n* Islehopper can be used to brew Water Breathing potion\n* Fish Plaque can be waxed and unwaxed\n* Fix Devilfish uses Leeches as food instead of Grubs\n* Fix hard crash for not using proper Mod event for Register Entity Layer",
+        "2.2.6": "* Fish Plaque is now getting all entity data when spawned by bucket\n* Revert fish dancing to use same behavior like parrot does, closes #44"
     },
     "1.19.3": {
         "2.2.1": "* Now support only 1.19.3\n* Added Earthworms, Grubs, Leeches\n* Added Fish Bone Block/Item\n* Added Immersive Weathering compatibility, closed #13\n* Added Simple Spawning Condition config\n* Added more glowing layers for Wrecker\n* Added customizable fish variant spawn in specific biome tags\n* Added Firelight devilfish warm blocks tag\n* Added more customizable tag for structures\n* Added Thai translation\n* Added Chinese translation, Thanks to deluxghost\n* Added Russian translation, Thanks to Telezhka-the-First\n* Added Fish Bone drop to fishes\n* Allow modders to add their own fish variant\n* Added NoFlip Tag\n* Group raw fish and cooked fish together\n* Ancientscales and Plentifins spawning inside structures improvement\n* Wreckers now spawns at Ocean Ruined Portal and swim around it\n* Fishes are now follow the players if holding any worms\n* Guardians now attacks Battlegills\n* Amber Plentifin spawning now require to see sky\n* Use POI for Honey Islehopper spawning, now requires Bee Nest/Hive within 8 blocks\n* Worms can now feed to fishes, depends on their type\n* Worms can be used to breed Chickens and Axolotls\n* Trophy fish size can be produce by worms\n* Trophy fish now drop 2-4 items\n* Balanced food stats\n* Balanced villager trades\n* Balanced all chests/entities loot\n* Balanced smelting EXP\n* All models are now using RGBA to the renderer\n* Change Creative Tabs icon to Splashtail\n* Update Config description\n* Update advancements description\n* Update all fish model for more Minecrafty style\n* Fix \"fishes\" for config, datapack\n* Fix Wrecker mouth animation when it isn't in the water\n* Fix too many fish in Buried Treasure Chest loot, closed #14\n* Fix \"Lost Sally\" advancement with a Salmon Bucket\n* Fix item names to match vanilla convention, closed #20\n* Fix Stormfish performance issue during thunderstorm, hopefully fixes #21\n* Fix Stormfish can spawn without raining\n\n### [Forge]\n* Aquaculture fish fillet balanced",
@@ -64,6 +68,11 @@
     "1.20.1": {
         "3.0.0": "* Update to support 1.20/1.20.1\n* [Forge] Temporary disable following features. Loot Tables/Aquaculture 2",
         "3.0.1": "* [Forge] Require Forge 47.0.16\n* [Forge] Re-enable Loot Table injections\n* [Forge] Temporary disable Aquaculture 2 compatibility",
-        "3.0.2": "* [Forge] Re-enable Aquaculture 2 compatibility"
+        "3.0.2": "* [Forge] Re-enable Aquaculture 2 compatibility",
+        "3.0.3": "* 1.20: Add Fish Bone to Ocean Ruins Archaeology loot\n* Added Alex's Caves Radgill compatibility\n* New Brain AIs system for fishes\n* New AI: Combine a flock with another small flock\n* New AI: Avoid Magma Block and Bubble Column\n* New AI: Trophy Fish will act as a flock leader\n* New AI: Wreckers are now swim to seek low light\n* Added Trophy Spawn Egg (Can be configured)\n* Plentifin can be used to brew Luck potion\n* Islehopper can be used to brew Water Breathing potion\n* Fish Plaque can be waxed and unwaxed\n* Fix Devilfish uses Leeches as food instead of Grubs\n* Fix hard crash for not using proper Mod event for Register Entity Layer",
+        "3.0.4": "* Fish Plaque is now getting all entity data when spawned by bucket\n* Revert fish dancing to use same behavior like parrot does, closes #44\n* Forge: Register Creative Tab in RegisterEvent"
+    },
+    "1.20.2": {
+        "3.0.4": "* Fish Plaque is now getting all entity data when spawned by bucket\n* Revert fish dancing to use same behavior like parrot does, closes #44\n* Forge: Register Creative Tab in RegisterEvent"
     }
 }

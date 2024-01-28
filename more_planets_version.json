@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/more-planets-gc-addon",
     "promos": {
-        "1.12.2-latest": "2.3.2",
-        "1.12.2-recommended": "2.3.2"
+        "1.12.2-latest": "2.3.3",
+        "1.12.2-recommended": "2.3.3"
     },
     "1.12.2": {
         "2.1.0": "* Added Undyed Tinted Glass \n* Added Crashed Alien Ship structure to Diona \n* Added Cheese Spore Hut to Chalos \n* Added Alien Chest \n* Added Infected Oak/Alien Berry Oak Pressure Plate \n* Added Infected Spruce Sapling \n* Added Terrasquid \n* Added Koentus Moon (WIP) \n* Added Koentus Meteor \n* Added Creep Block/Creep Extractor/Creep Vines \n* Added New Advancement (WIP) \n* Added Colored Star/Fancy Star configuration \n* Added Survival Planet Selection (replaced started planet) \n* Added Space Nether (Survival Planet Selection only) \n* Added Planet/Moon tier configuration. Implemented #10 \n* Added Advancement for JSON Recipes \n* Added Upgrade recipes \n* Added JEI Anvil recipes for tools/armor \n* Added More biomes to Nibiru \n* Added New Rarity Color and Restore old GC Item Rarity\n* Flattening all blocks/items name\n* More Ore Dictionary support\n* More CTM support\n* Oil Ore will spawn liquid oil when exploded\n* Can create infinite Purified Water only in Green Vein biomes\n* Entities now can breathe in Green Vein biomes\n* Nuclear Waste Tank now can create Waste Rod by liquid Nuclear Waste\n* Better TESR Rendering\n* Better multiblocks rendering\n* Better planets sky rendering\n* Crystallized Lava/Nuclear Waste bucket can be used as fuel\n* Nibiru creatures now avoid the thunder\n* Rewrite Nibiru Villager\n* Rewrite Nibiru Stronghold\n* Mutalic Crystal Tools/Armor ability changed\n* Adjust sun brightness for Alien Beam spawning\n* Improved Alien Beam rendering\n* Improved block ticking performance\n* Improved Nibiru cloud/weather rendering\n* Improved Vein Floater boss spawning/teleporting\n* More minor issue fixes\n* More biome decorator fixes\n* More entities hitbox fixes\n* Fixed mob spawning on planets\n* Fixed Battery in Inventory issue\n* Fixed Space Warp Pad multiblocks issue\n* Fixed rare startup crash\n* Fixed Diona/Nibiru stuck in dimension load/unload loop. Closes #22\n* Fixed Lava Fluid light level\n* Fixed multiblocks crash at Y 255\n* Fixed structures location in world\n* Fixed Infected Water fluid conflict with Extra Planets mod\n* Fixed snowball not dropped from snow layer\n* Fixed Shield Generator inventory issue\n* Fixed Vein Floater boss fight music\n* Fixed Zergius causes world corruption. Closes #30\n* Fixed Custom Boss Bar not rendered\n* Removed Metadata from blocks/items\n* Removed Tiered Rocket\n* Removed Rocket Crusher",
@@ -27,6 +27,7 @@
         "2.2.4": "* Fixed crash related with Space Nether on Galaxy Map Screen (GalaxySpace compatibility), closed #145",
         "2.3.0": "* Require GC 4.0.4\n* Enabled normal Nether Portal on space if has survival planet selected\n* Implemented Survival Planet feature on the server, Configure by \"moreplanets_server.cfg\"\n* Remove Space Nether\n* Reduced size of the planets on Celestial Screen\n* Minor changes to planet skies\n* Fixed Fronos not visible from Nibiru, closes #158",
         "2.3.1": "* Fixed incompatible with Magma Server, closes #160",
-        "2.3.2": "* Require SteveKunG's Lib 1.3.0\n* Require Galacticraft Legacy 4.0.5\n* Require MixinBooter 7.0\n* Attempt to fix #161"
+        "2.3.2": "* Require SteveKunG's Lib 1.3.0\n* Require Galacticraft Legacy 4.0.5\n* Require MixinBooter 7.0\n* Attempt to fix #161",
+        "2.3.3": "* Fix Divide by zero when hovering Dark Energy Generator in GUI, closes #165\n* Avoid using Mixin @Redirect, for better mod compatibility\n* Fix can ignite fire in the space when the player in survival planet mode"
     }
 }
